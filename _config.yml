@@ -1,0 +1,13 @@
+name: variabler
+domain: variabler.no
+project: Infrastruktur for Forskning
+markdown: kramdown
+timezone: GB
+permalink: /blog/:year/:month/:day/:title
+# pygments: true
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-mentions

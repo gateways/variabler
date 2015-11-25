@@ -1,41 +1,266 @@
 <!DOCTYPE html>
-<html>
-
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="{{ page.title }} : {{ site.domain }}">
-    {% feed_meta %}
-
-    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/stylesheet.css">
-
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.title }} : {{ site.domain }}" />
+  {% feed_meta %}
+  <meta name="author" content="variabler">
+  <script type='text/javascript' src='//www.google.com/jsapi'></script>
+  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  <!-- Custom styles for this template -->
+  <link href="/stylesheets/site.css" rel="stylesheet">
 
-  </head>
-  <body>
+</head>
+<body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <h1 id="project_title"><a href="/">variabler</a></h1>
-          <h2 id="project_tagline">Infrastruktur for Forskning</h2>
-        </header>
+  <!-- **************  Navigation bar  ************** -->
+
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">variabler</a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li class=''><a href="/about">About</a></li>
+          <!-- <li class="dropdown ">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">The project <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="/About">About</a></li>
+            </ul>
+          </li> -->
+        </ul>
+      </div>
     </div>
+  </nav>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
 
-        {{ content }}
+<!-- **************  IFF banner  ************** -->
+<div class="banner-wrapper">
+  <div id="main-banner" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#main-banner" data-slide-to="0" class="active"></li>
+      <li data-target="#main-banner" data-slide-to="1"></li>
+      <li data-target="#main-banner" data-slide-to="2"></li>
+    </ol>
+    <!-- Content -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <div class="container">
+          <h1>Research Infrastructure for <em>Health Registries &amp; researchers</em></h1>
+          <div class="row">
+              <p>
+                Infrastruktur for Forskning is a platform of services and products for researchers and research projects
+                in Norway and across Scandinavia.
+              </p>
+              <p>
+                Data access, Data ordering, <strong>open metadata</strong>, exposed through a wide collection of online services and access points.
+              </p>
+              <p class="ta-ml">
+                <a href="/" class="btn btn-primary" role="button">More info</a>
+                <a href="/" class="btn btn-primary" role="button">Get started</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="container">
+            <h1>Health Registries <em>for Research</em></h1>
+            <div class="row">
+              <div class="col-sm-5">
+                <p>
+                  <strong>HRR</strong> is a broad project supporting research initiatives and data harmonization in the public sector.
+                </p>
+                <p>
+                  Cooperation, transparency, and open data.
+                </p>
+              </div>
+              <div class="col-sm-7 ta-left-center"></div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="container">
+            <h1>Healthcare <em>eInfrastructure</em></h1>
+            <div class="row">
+              <div class="col-sm-5">
+                <p>
+                  <strong>Collaboration</strong> across institution and discipline.
+                </p>
+                <p>
+                  Open data, shared standards, publicly funded, and social.
+                </p>
+              </div>
+              <div class="col-sm-7 ta-left-center"></div>
+            </div>
+          </div>
+        </div>
+      </div>
 
-      </section>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#main-banner" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#main-banner" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+
+<div class="compo-wrapper">
+  <div class="container">
+    <div class="row header">
+      <div class="col-md-12">
+        <div id="main_content_wrap" class="outer">
+          <section id="main_content" class="inner">
+
+{{ content }}
+
+          </section>
+        </div>
+      </div>
     </div>
+  </div>
+</div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">{{ site.domain }} copyright iforsk 2015, hosted at <a href="https://github.com/gateways">IFF gateways</a></p>
-      </footer>
+<!-- **************   components  ************** -->
+<div class="buzzword-wrapper">
+  <div class="container">
+    <div class="row header">
+      <div class="col-md-12">
+        <h2>Researcher focused <em>What does IFF provide?</em><a name="libraries"></a>&nbsp;</h2>
+      </div>
     </div>
-  </body>
+    <div class="row components">
+      <div class="col-md-6">
+        <h3><span><i class="fa fa-database"></i></span> Specialized <em>data services</em></h3>
+        <ul>
+          <li>File ordering, research documentation generation</li>
+          <li>File transfer, secure upload, and painless archiving</li>
+          <li>Built-in compliance, security, privacy.</li>
+        </ul>
+        <a href="http://iforsk.no" class="btn fst btn-primary" role="button">IFF homepage</a>
+      </div>
+      <div class="col-md-6">
+        <h3><span><i class="fa fa-bars"></i></span> Harmonization <em>Coding and variable mapping</em></h3>
+        <ul>
+          <li>Mapping and enumerating medical codes, variable display and file ordering.</li>
+          <li>Quickly order data to be delivered to a secure data facility.</li>
+        </ul>
+        <a href="/" class="btn fst btn-primary" role="button">Service overview</a>
+        <a href="/" class="btn btn-primary" role="button">HRR Project</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h3>About {{ site.domain }}</h3>
+          <p>
+            <p class="copyright">{{ site.domain }} copyright iforsk 2015, hosted at <a href="https://github.com/gateways">IFF gateways</a></p>
+          </p>
+          <ul>
+            <li>Follow on Twitter <a href="http://twitter.com/iffno">@iffno</a></li>
+          </ul>
+        </div>
+        <div class="col-md-4">
+          <h3>Contact</h3>
+          <p>Contact information:</p>
+          <ul>
+            <li>contact@iforsk.no</li>
+          </ul>
+        </div>
+        <div class="col-md-4">
+          <h3>About the project</h3>
+          <p>
+            IFF is built for the purpose of improving access of publc health data to researchers.
+          </p>
+          <ul>
+            <li>Visit the <a href="http://forforskning.no">IFF Project</a> for more info</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script type="text/javascript" >
+
+    var currentTip = null;
+    var currentTipElement = null;
+
+    function hideTip(evt, name, unique) {
+      var el = document.getElementById(name);
+      el.style.display = "none";
+      currentTip = null;
+    }
+
+    function findPos(obj) {
+      var curleft = 0;
+      var curtop = obj.offsetHeight;
+      while (obj) {
+          curleft += obj.offsetLeft;
+          curtop += obj.offsetTop;
+          if (obj.tagName == "TABLE") break;
+          obj = obj.offsetParent;
+      };
+      return [curleft, curtop];
+    }
+
+    function hideUsingEsc(e) {
+      if (!e) { e = event; }
+      hideTip(e, currentTipElement, currentTip);
+    }
+
+    function showTip(evt, name, unique, owner) {
+      document.onkeydown = hideUsingEsc;
+      if (currentTip == unique) return;
+      currentTip = unique;
+      currentTipElement = name;
+
+      var pos = findPos(owner ? owner : (evt.srcElement ? evt.srcElement : evt.target));
+      var posx = pos[0];
+      var posy = pos[1];
+
+      var el = document.getElementById(name);
+      var parent = (document.documentElement == null) ? document.body : document.documentElement;
+      el.style.position = "absolute";
+      el.style.left = posx + "px";
+      el.style.top = posy + "px";
+      el.style.display = "block";
+    }
+  </script>
+  <script>
+    $(function() {
+      $('#main-banner').carousel({
+        interval: 9000
+      })});
+  </script>
+  <script>
+    // google analytics
+  </script>
+</body>
 </html>

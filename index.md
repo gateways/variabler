@@ -76,6 +76,6 @@ d3.select(self.frameElement).style("height", diameter - 150 + "px");
 
 <div class="blurb">
 	<h1>Initial Variable Overview</h1>
-	<p>Metadata variables, displayed as a Node-Link Tree.</p>
+	<p>Metadata variables, displayed as a Node-Link Tree...</p>
 	<p>This site also has a <a href="http://{{ site.domain }}/blog/">blog</a>.</p>
 </div>

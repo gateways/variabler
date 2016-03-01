@@ -1,6 +1,6 @@
 name: variabler
 domain: variabler.no
-project: Infrastruktur for Forskning..
+project: Infrastruktur for Forskning
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 redcarpet:

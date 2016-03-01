@@ -42,7 +42,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
-d3.json("http://bl.ocks.org/mbostock/raw/4063550/flare.json", function(error, root) {
+d3.json("https://raw.githubusercontent.com/gateways/variabler/gh-pages/viz/data.json", function(error, root) {
   if (error) throw error;
 
   var nodes = tree.nodes(root),

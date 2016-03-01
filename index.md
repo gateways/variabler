@@ -75,7 +75,7 @@ d3.select(self.frameElement).style("height", diameter - 150 + "px");
 </script>
 
 <div class="blurb">
-	<h1>Initial HRR Gateway Hub</h1>
-	<p>This content is being set through a properly named markdown file and piped through Jekyll into the site...</p>
+	<h1>Initial Variable Overview</h1>
+	<p>Metadata variables, displayed.</p>
 	<p>This site also has a <a href="http://{{ site.domain }}/blog/">blog</a>.</p>
 </div>

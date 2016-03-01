@@ -1,7 +1,7 @@
 name: variabler
 domain: variabler.no
 project: Infrastruktur for Forskning
-markdown: redcarpet
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]

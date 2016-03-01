@@ -3,6 +3,7 @@ domain: variabler.no
 project: Infrastruktur for Forskning
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 highlighter: rouge
+markdown: kramdown
 
 kramdown:
   auto_ids:       true

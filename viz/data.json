@@ -1,3327 +1,2092 @@
 {
+  "Case": "Branch",
   "name": "HRR Variables",
   "children": [
     {
+      "Case": "Branch",
       "name": "Dødsårsakregister",
       "children": [
         {
-          "name": "GENERELLE/IDENT",
-          "size": 100,
-          "children": []
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KJONN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ALDER_AR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ALDER_DAGER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BOSTEDSKOMMUNE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DODSTIDSPUNKT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DODSSTED",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DODSKOMMUNE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BOSTEDSLAND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/OPPHOLDSKATEGORI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MELDINGSTYPER_INN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SPES_OMST_A",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SPES_OMST_B",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SKADESTED",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SKADEAKTIVITET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/TYPE_DIAGNOSE_KODEVERK",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/EU_SHORTLIST_1998",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DIAGNOSE_UNDERLIGGENDE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DIAGNOSE_SKADE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ARSAK_DIAGNOSER_IA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ARSAK_DIAGNOSER_IB",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ARSAK_DIAGNOSER_IC",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ARSAK_DIAGNOSER_II",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ALLE_DIAGNOSER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/OBDUKSJONSTYPE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Dødsårsakregister",
+          "size": 350
         }
       ]
     },
     {
+      "Case": "Branch",
       "name": "Medisinsk Fødselregister",
       "children": [
         {
-          "name": "GENERELLE/VERSJON_DATABASE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/VERSJON_RECORD",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/KILDE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/ID_BARN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/ID_MOR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/ID_FAR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/FODESTED_KAT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/FODESTED_KAT_5",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/HOVEDINSTNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/INSTNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/HELSEFORETAK",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/HELSEREGION",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/BOHELSEREGION_DAGENS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MFDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MOR_FAAR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MFMND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/GEN_MFNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MORS_ALDER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MORS_ALDER_DESIMALT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MORS_ALDER_KAT_K6",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BOKOMM",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BOFYLKE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BOKOMM_DAGENS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BOFYLKE_DAGENS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SIVST",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SIVST_2",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SLEKTF",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FFDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FAR_FAAR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FFMND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/GEN_FFNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FARS_ALDER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FARS_ALDER_KAT_K8",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PARITET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PARITET_5",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PARITET_MOR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PARITET_MFR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DODFODTE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DODFODTE_5",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/LEVENDEFODTE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/LEVENDEFODTE_5",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SPABORT_12",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SPABORT_12_5",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SPABORT_23",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SPABORT_23_5",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KSNITT_TIDLIGERE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SMENSD",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SMENS_MND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SMENSD_KODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/UL_TERMIN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/UL_TERMIN_AAR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/UL_TERMIN_MND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/IVF_INNSETT_DATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SVLEN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SVLEN_KAT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SVLEN_DG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SVLEN_UL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SVLEN_UL_DG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SVLEN_SM",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SVLEN_SM_DG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ZSCORE_BW_GA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PRENAT_PAT_KODER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DIAG_FOER_SVGSK_INGEN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MORS_HELSE_FOER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ASTMA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/HYPERTENSJON_KRONISK",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/NYRESYKDOM_KRONISK",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/URINVEIS_RES",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/REUM_ARTRITT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/HJERTE_MOR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/EPILEPSI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DIABETES_MELLITUS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/THYREOIDEA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SYKDOM_MOR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KOSTNEI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FOLATF",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MULTIVITF",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DIAG_UNDER_SVGSK_INGEN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MORS_HELSE_UNDER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BLODN_SVGSK",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BLODN_F13",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BLODN_13_28",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BLODN_E28",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/HYPERTENSIV_TILSTAND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/HYPERTENSJON_ALENE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/EKLAMPSI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PREEKL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PREEKLTIDL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PREEKL_EKLAMPSI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/HELLP",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/HB_U9",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/RUBELLA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/VENERISK",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MULTIVITU",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FOLATU",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/LEGEMIDLER_UNDER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/LEGEMIDLER_FODSEL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ROYK_SAMTYKKE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ROYK_OPPL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ROYK_FOER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ROYK_FOER_ANT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ROYK_BEG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ROYK_BEG_ANT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ROYK_AVSL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ROYK_AVSL_ANT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MORS_HOYDE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MORS_VEKT_FOER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MORS_VEKT_SLUTT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KMI_FOER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KMI_SLUTT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FSTART",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ROBSON_10",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/INNGREP_TILTAK_INGEN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/LEIE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/INTERVENSJON",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/INDUKSJON_PROSTAGLANDIN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/INDUKSJON_OXYTOCIN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/INDUKSJON_AMNIOTOMI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/INDUKSJON_ANNET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/INNGREP",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/TANG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/VAKUUM",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/EPISIOTOMI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FRAMHJELP",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/UTTREKKING",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KSNITT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KSNITT_PLANLAGT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KOMPL_INGEN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KOMPLIKASJONER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/VANNAVGANG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ABRUPTIOP",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PLACENTA_PREVIA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/RUPTUR34",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BLODNING_O500",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DYSTOCI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ANESTESI_INGEN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/LYSTGASS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/OPIAT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/EPIDURAL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SPINAL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PUDENDAL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/INFILTRASJON",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PARACERV",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/NARKOSE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ANESTESI_ANNET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PLACENTA_NORMAL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/UTSKRAPING",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PLACENTAVEKT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/MANUELL_PLACENTA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/NAVLESNORLENGDE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FOSTERV_NORMAL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FOSTERV_POLYHYDRAMNION",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FOSTERV_OLIGOHYDRAMNION",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FOSTERV_MISF_STINK_INFI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/NAVLESNOR_NORMAL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/NAVLESNOR_KOMPL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/NAVLESNOR_OMSL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/NAVLESNOR_KNUTE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KOMPLIKASJONER_ETTER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/TROMBOSE_BEH",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FMND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FAAR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FLERFODSEL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PLURAL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PLUREK",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PLUREK_1",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KJONN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/VEKT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/LENGDE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/HODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/APGAR1",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/APGAR5",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/OVERFLYTTET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/UTVANDRET_DATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FODT_MFR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/TILSTAND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DAAR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DMND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/DODKAT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_DODFODT_MFR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_DOD_MFR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_DOD_TID_MFR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_FODT_MFR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_DODFOD_1000_WHO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_DODFOD_500_WHO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_DOD_TI_1000_WHO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_DOD_TI_500_WHO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_DOD_1000_WHO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_DOD_500_WHO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_FODT_1000_WHO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PERINAT_FODT_500_WHO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/BARNETS_HELSE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ABSTINENS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/NEO_DIAG_INGEN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/RESPIRATORISK_DISTR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/INTRAKRANIELL_BLODN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/KONJUNKTIVITT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/PLEXUSSKADE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/RH_ANTISTOFF",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/SYSTEMISKANTIBIOTIKA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/RESPIRATOR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FRACT_CLAVICULAE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/CPAP",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/HOFTELEDDYSPL_PUTE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ANNEN_FRACTUR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/ICTERUS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/FACIALISPARESE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C00_MALF_ALL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C01_ANENCEPH",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C02_SPINAB",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C03_ENCEPH",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C06_HYDROCEPH",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C11_MICROTIA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C13_TRANSPOS_GREAT_VESSELS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C15_HYPOPLASTIC_LEFT_HEART",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C18_CLEFT_PALATE_WITHOUT_CL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C19_CLEFT_LIP_PLUS_MINUS_CP",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C20_OESOPHAGEAL_ATRES_STENOS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C22_ANORECTAL_ATRES_STENOS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C24_HYPOSPADIA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C27_RENAL_AGENESIS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C31_LIMB_REDUCTION_DEFECTS_ALL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C38_DIAFRAGMATIC_HERNIA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         },
         {
-          "name": "GENERELLE/C39_OMPHALOCELE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/C40_GASTROSCHISIS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/C45_DOWN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/NEVRALRORSDEFEKTER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/IVF",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/IVFMETODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/IVFINSTITUSJON",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/FODELAND_NAVN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/FODELAND_KODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/SVLEN_IVF",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/SVLEN_IVF_DG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/IVF_DATO_EGGUTTAK",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "GENERELLE/IVF_DAG_EGGFRYS",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Medisinsk Fødselregister",
+          "size": 350
         }
       ]
     },
     {
+      "Case": "Branch",
       "name": "Norsk Pasient Register - Somatikk",
       "children": [
         {
-          "name": "MELDING/VERSJON",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MELDING/MELDINGSTYPE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MELDING/FRADATOPERIODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MELDING/UTTAKDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MELDING/LEVERANDOR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MELDING/NAVNEPJ",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MELDING/VERSJONEPJ",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MELDING/VERSJONUT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MELDING/LOPENR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MELDING/TILDATOPERIODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MELDING/LOKALIDENT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "KONTAKTPERSON/KONTPERSON",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "KONTAKTPERSON/MELDTELEFON",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "KONTAKTPERSON/MELDEPOST1",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "KONTAKTPERSON/MELDEPOST2",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "KONTAKTPERSON/TYPEKONTAKTPERSON",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "INSTITUSJON/INSTITUSJONID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "ENHET/ENHETID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "ENHET/ORGNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "ENHET/NACE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "ENHET/OFFAVDKODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "ENHET/RESHID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "ENHET/ISFREFUSJON",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "ENHET/ENHETLOKAL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "SLETT/OBJEKTTYPE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "SLETT/SLETTGUID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "OBJEKTHOLDER/PASIENTGUID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "OBJEKTHOLDER/PASIENTNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "PASIENT/PASIENTGUID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "PASIENT/PASIENTNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "PASIENT/KJONN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "PASIENT/FODSELSAR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "PASIENT/FODSELSVEKT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/HENVISNINGSPERIODEGUID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/HENVISNINGSPERIODEID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/HENVFRAINSTITUSJONID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/HENVFRATJENESTE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/HENVFRAHPR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/ANSIENDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/TRYGDENASJON",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/NYTILSTAND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/SLUTTDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/HENVTILINSTITUSJONID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/HENVTILTJENESTE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNINGSPERIODE/HENVTILHPR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/EPISODEGUID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/EPISODEID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/HENVISNINGSPERIODEID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/SERIEID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/INNDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/FRASTED",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/FRAINSTITUSJONID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/KOMMTJENESTE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/DEBITOR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/EPISODEFAG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/DELYTELSE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/FRITTBEHANDLINGSVALG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/KOMNRHJEM",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/BYDEL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/INNTILSTAND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/SAMTYKKEKOMPETANSE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/INNMATEHAST",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/ALDERIDAGER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/OMSORGSNIVA",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/UTTILSTAND",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/SLUTTKODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/EPIKRISEDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/TILSTED",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/TILINSTITUSJONID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/UTDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "EPISODE/EPIKRISESAMTYKKE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "AVDOPP/OPPHOLDSTYPE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "AVDOPP/AVDOPPAKTIVITET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "AVDOPP/PERMISJONSDOGN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "KONTAKT/KONTAKTTYPE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "KONTAKT/INITIATIVTAKER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "KONTAKT/STEDAKTIVITET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "KONTAKT/POLKONAKTIVITET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "KONTAKT/POLINDIR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "INDIVIDUELLPLAN/INDIVIDUELLPLAN",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "INDIVIDUELLPLAN/ROLLEIP",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "INDIVIDUELLPLAN/INDIVIDUELLPLANDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/HENVID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/FORSTEHENVID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/MOTTAKSDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/HENVTYPE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/HENVVURD",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/HENVFORMAL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/FRITTBEHANDLINGSVALG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/SECONDOPINION",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/KOMNRHJEM",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/DEBITOR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/BYDEL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/KOMMUNALTJENESTE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/TUTOR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/OMSNIVAHENV",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/FAGOMRADE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/VURDDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/PAKKEFORLOP",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/TILSTANDSGRUPPE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/TILDELTDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/RETTTILHELSEHJELP",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/FRISTSTARTBEHANDLING",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/DATOFORMIDLET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/VENTETIDSLUTTDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "HENVISNING/VENTETIDSLUTTKODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TIDSPUNKT/TIDSPUNKT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TIDSPUNKT/TYPETIDSPUNKT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TJENESTE/INSTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TJENESTE/TJENESTEENHETID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TJENESTE/STARTDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TJENESTE/SLUTTDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TJENESTE/TJENESTEFAG",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "DELTAKER/DELTAKERTYPE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "MALING/TYPEMALING",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "MALING/MALINGDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "PERMISJON/STARTDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "PERMISJON/STOPPDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "PERMISJON/PERMISJONTYPE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "POSTOPP/TJENESTEENHETID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "POSTOPP/FAGENHETID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "POSTOPP/INNDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "POSTOPP/UTDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "SAMARBEIDSPART/TJENESTER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "SAMARBEIDSPART/INSTITUSJONID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TAKST/TYPEFORSKRIFT",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TAKST/TAKSTNUMMER",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TAKST/ANTALL",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "REFENHET/ENHETID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "REFENHET/TYPEENHET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "UTSETTELSE/UTSETTKODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "UTSETTELSE/UTSETTDATO",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "UTSETTELSE/DATOEPISODE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TILTAK/TYPETILTAK",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TILTAK/STARTDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "TILTAK/SLUTTDATOTID",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "MALERESULTAT/MALERESULTATNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         },
         {
-          "name": "MALERESULTAT/VERDI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "MALERESULTAT/ENHET",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "TILSTAND/TILSTNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "TILSTAND/AKSE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "HELSEPERSON/POLUTFORENDE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "HELSEPERSON/SPESIALIST",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "HELSEPERSON/ROLLE",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "PROSEDYRE/PROSNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "PROSEDYRE/TILSTNR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "KODE/KODENR",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "KODE/KODEVERK",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "KODE/KODEVERSJON",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
-        },
-        {
-          "name": "KODE/KODEVERDI",
-          "size": 100,
-          "children": {
-            "_flags": "cached",
-            "id": 6
-          }
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
+        },
+        {
+          "Case": "Leaf",
+          "name": "Norsk Pasient Register - Somatikk",
+          "size": 350
         }
       ]
     }

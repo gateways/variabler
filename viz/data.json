@@ -8,127 +8,127 @@
       "children": [
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/IDENT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/KJONN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/ALDER_AR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/ALDER_DAGER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/BOSTEDSKOMMUNE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/DODSTIDSPUNKT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/DODSSTED",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/DODSKOMMUNE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/BOSTEDSLAND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/OPPHOLDSKATEGORI",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/MELDINGSTYPER_INN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/SPES_OMST_A",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/SPES_OMST_B",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/SKADESTED",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/SKADEAKTIVITET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/TYPE_DIAGNOSE_KODEVERK",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/EU_SHORTLIST_1998",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/DIAGNOSE_UNDERLIGGENDE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/DIAGNOSE_SKADE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/ARSAK_DIAGNOSER_IA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/ARSAK_DIAGNOSER_IB",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/ARSAK_DIAGNOSER_IC",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/ARSAK_DIAGNOSER_II",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/ALLE_DIAGNOSER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Dødsårsakregister",
+          "name": "GENERELLE/OBDUKSJONSTYPE",
           "size": 350
         }
       ]
@@ -139,1197 +139,1197 @@
       "children": [
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/VERSJON_DATABASE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/VERSJON_RECORD",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KILDE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ID_BARN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ID_MOR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ID_FAR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FODESTED_KAT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FODESTED_KAT_5",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HOVEDINSTNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/INSTNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HELSEFORETAK",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HELSEREGION",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BOHELSEREGION_DAGENS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MFDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MOR_FAAR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MFMND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/GEN_MFNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MORS_ALDER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MORS_ALDER_DESIMALT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MORS_ALDER_KAT_K6",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BOKOMM",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BOFYLKE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BOKOMM_DAGENS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BOFYLKE_DAGENS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SIVST",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SIVST_2",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SLEKTF",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FFDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FAR_FAAR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FFMND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/GEN_FFNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FARS_ALDER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FARS_ALDER_KAT_K8",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PARITET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PARITET_5",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PARITET_MOR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PARITET_MFR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/DODFODTE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/DODFODTE_5",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/LEVENDEFODTE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/LEVENDEFODTE_5",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SPABORT_12",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SPABORT_12_5",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SPABORT_23",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SPABORT_23_5",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KSNITT_TIDLIGERE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SMENSD",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SMENS_MND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SMENSD_KODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/UL_TERMIN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/UL_TERMIN_AAR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/UL_TERMIN_MND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/IVF_INNSETT_DATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SVLEN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SVLEN_KAT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SVLEN_DG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SVLEN_UL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SVLEN_UL_DG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SVLEN_SM",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SVLEN_SM_DG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ZSCORE_BW_GA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PRENAT_PAT_KODER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/DIAG_FOER_SVGSK_INGEN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MORS_HELSE_FOER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ASTMA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HYPERTENSJON_KRONISK",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/NYRESYKDOM_KRONISK",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/URINVEIS_RES",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/REUM_ARTRITT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HJERTE_MOR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/EPILEPSI",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/DIABETES_MELLITUS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/THYREOIDEA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SYKDOM_MOR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KOSTNEI",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FOLATF",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MULTIVITF",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/DIAG_UNDER_SVGSK_INGEN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MORS_HELSE_UNDER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BLODN_SVGSK",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BLODN_F13",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BLODN_13_28",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BLODN_E28",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HYPERTENSIV_TILSTAND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HYPERTENSJON_ALENE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/EKLAMPSI",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PREEKL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PREEKLTIDL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PREEKL_EKLAMPSI",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HELLP",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HB_U9",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/RUBELLA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/VENERISK",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MULTIVITU",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FOLATU",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/LEGEMIDLER_UNDER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/LEGEMIDLER_FODSEL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ROYK_SAMTYKKE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ROYK_OPPL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ROYK_FOER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ROYK_FOER_ANT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ROYK_BEG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ROYK_BEG_ANT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ROYK_AVSL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ROYK_AVSL_ANT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MORS_HOYDE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MORS_VEKT_FOER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MORS_VEKT_SLUTT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KMI_FOER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KMI_SLUTT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FSTART",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ROBSON_10",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/INNGREP_TILTAK_INGEN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/LEIE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/INTERVENSJON",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/INDUKSJON_PROSTAGLANDIN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/INDUKSJON_OXYTOCIN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/INDUKSJON_AMNIOTOMI",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/INDUKSJON_ANNET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/INNGREP",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/TANG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/VAKUUM",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/EPISIOTOMI",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FRAMHJELP",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/UTTREKKING",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KSNITT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KSNITT_PLANLAGT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KOMPL_INGEN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KOMPLIKASJONER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/VANNAVGANG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ABRUPTIOP",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PLACENTA_PREVIA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/RUPTUR34",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BLODNING_O500",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/DYSTOCI",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ANESTESI_INGEN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/LYSTGASS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/OPIAT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/EPIDURAL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SPINAL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PUDENDAL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/INFILTRASJON",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PARACERV",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/NARKOSE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ANESTESI_ANNET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PLACENTA_NORMAL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/UTSKRAPING",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PLACENTAVEKT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/MANUELL_PLACENTA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/NAVLESNORLENGDE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FOSTERV_NORMAL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FOSTERV_POLYHYDRAMNION",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FOSTERV_OLIGOHYDRAMNION",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FOSTERV_MISF_STINK_INFI",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/NAVLESNOR_NORMAL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/NAVLESNOR_KOMPL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/NAVLESNOR_OMSL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/NAVLESNOR_KNUTE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KOMPLIKASJONER_ETTER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/TROMBOSE_BEH",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FMND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FAAR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FLERFODSEL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PLURAL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PLUREK",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PLUREK_1",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KJONN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/VEKT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/LENGDE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/APGAR1",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/APGAR5",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/OVERFLYTTET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/UTVANDRET_DATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FODT_MFR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/TILSTAND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/DDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/DAAR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/DMND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/DODKAT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_DODFODT_MFR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_DOD_MFR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_DOD_TID_MFR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_FODT_MFR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_DODFOD_1000_WHO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_DODFOD_500_WHO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_DOD_TI_1000_WHO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_DOD_TI_500_WHO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_DOD_1000_WHO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_DOD_500_WHO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_FODT_1000_WHO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PERINAT_FODT_500_WHO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/BARNETS_HELSE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ABSTINENS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/NEO_DIAG_INGEN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/RESPIRATORISK_DISTR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/INTRAKRANIELL_BLODN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/KONJUNKTIVITT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/PLEXUSSKADE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/RH_ANTISTOFF",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SYSTEMISKANTIBIOTIKA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/RESPIRATOR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FRACT_CLAVICULAE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/CPAP",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/HOFTELEDDYSPL_PUTE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ANNEN_FRACTUR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/ICTERUS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FACIALISPARESE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C00_MALF_ALL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C01_ANENCEPH",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C02_SPINAB",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C03_ENCEPH",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C06_HYDROCEPH",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C11_MICROTIA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C13_TRANSPOS_GREAT_VESSELS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C15_HYPOPLASTIC_LEFT_HEART",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C18_CLEFT_PALATE_WITHOUT_CL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C19_CLEFT_LIP_PLUS_MINUS_CP",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C20_OESOPHAGEAL_ATRES_STENOS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C22_ANORECTAL_ATRES_STENOS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C24_HYPOSPADIA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C27_RENAL_AGENESIS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C31_LIMB_REDUCTION_DEFECTS_ALL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C38_DIAFRAGMATIC_HERNIA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C39_OMPHALOCELE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C40_GASTROSCHISIS",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/C45_DOWN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/NEVRALRORSDEFEKTER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/IVF",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/IVFMETODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/IVFINSTITUSJON",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FODELAND_NAVN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/FODELAND_KODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SVLEN_IVF",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/SVLEN_IVF_DG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/IVF_DATO_EGGUTTAK",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Medisinsk Fødselregister",
+          "name": "GENERELLE/IVF_DAG_EGGFRYS",
           "size": 350
         }
       ]
@@ -1340,752 +1340,752 @@
       "children": [
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/VERSJON",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/MELDINGSTYPE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/FRADATOPERIODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/UTTAKDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/LEVERANDOR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/NAVNEPJ",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/VERSJONEPJ",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/VERSJONUT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/LOPENR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/TILDATOPERIODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MELDING/LOKALIDENT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KONTAKTPERSON/KONTPERSON",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KONTAKTPERSON/MELDTELEFON",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KONTAKTPERSON/MELDEPOST1",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KONTAKTPERSON/MELDEPOST2",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KONTAKTPERSON/TYPEKONTAKTPERSON",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "INSTITUSJON/INSTITUSJONID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "ENHET/ENHETID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "ENHET/ORGNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "ENHET/NACE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "ENHET/OFFAVDKODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "ENHET/RESHID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "ENHET/ISFREFUSJON",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "ENHET/ENHETLOKAL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "SLETT/OBJEKTTYPE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "SLETT/SLETTGUID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "OBJEKTHOLDER/PASIENTGUID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "OBJEKTHOLDER/PASIENTNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "PASIENT/PASIENTGUID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "PASIENT/PASIENTNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "PASIENT/KJONN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "PASIENT/FODSELSAR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "PASIENT/FODSELSVEKT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/HENVISNINGSPERIODEGUID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/HENVISNINGSPERIODEID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/HENVFRAINSTITUSJONID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/HENVFRATJENESTE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/HENVFRAHPR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/ANSIENDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/TRYGDENASJON",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/NYTILSTAND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/SLUTTDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/HENVTILINSTITUSJONID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/HENVTILTJENESTE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNINGSPERIODE/HENVTILHPR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/EPISODEGUID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/EPISODEID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/HENVISNINGSPERIODEID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/SERIEID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/INNDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/FRASTED",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/FRAINSTITUSJONID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/KOMMTJENESTE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/DEBITOR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/EPISODEFAG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/DELYTELSE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/FRITTBEHANDLINGSVALG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/KOMNRHJEM",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/BYDEL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/INNTILSTAND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/SAMTYKKEKOMPETANSE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/INNMATEHAST",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/ALDERIDAGER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/OMSORGSNIVA",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/UTTILSTAND",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/SLUTTKODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/EPIKRISEDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/TILSTED",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/TILINSTITUSJONID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/UTDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "EPISODE/EPIKRISESAMTYKKE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "AVDOPP/OPPHOLDSTYPE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "AVDOPP/AVDOPPAKTIVITET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "AVDOPP/PERMISJONSDOGN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KONTAKT/KONTAKTTYPE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KONTAKT/INITIATIVTAKER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KONTAKT/STEDAKTIVITET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KONTAKT/POLKONAKTIVITET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KONTAKT/POLINDIR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "INDIVIDUELLPLAN/INDIVIDUELLPLAN",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "INDIVIDUELLPLAN/ROLLEIP",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "INDIVIDUELLPLAN/INDIVIDUELLPLANDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/HENVID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/FORSTEHENVID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/MOTTAKSDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/HENVTYPE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/HENVVURD",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/HENVFORMAL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/FRITTBEHANDLINGSVALG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/SECONDOPINION",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/KOMNRHJEM",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/DEBITOR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/BYDEL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/KOMMUNALTJENESTE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/TUTOR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/OMSNIVAHENV",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/FAGOMRADE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/VURDDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/PAKKEFORLOP",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/TILSTANDSGRUPPE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/TILDELTDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/RETTTILHELSEHJELP",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/FRISTSTARTBEHANDLING",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/DATOFORMIDLET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/VENTETIDSLUTTDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HENVISNING/VENTETIDSLUTTKODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TIDSPUNKT/TIDSPUNKT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TIDSPUNKT/TYPETIDSPUNKT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TJENESTE/INSTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TJENESTE/TJENESTEENHETID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TJENESTE/STARTDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TJENESTE/SLUTTDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TJENESTE/TJENESTEFAG",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "DELTAKER/DELTAKERTYPE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MALING/TYPEMALING",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MALING/MALINGDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "PERMISJON/STARTDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "PERMISJON/STOPPDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "PERMISJON/PERMISJONTYPE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "POSTOPP/TJENESTEENHETID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "POSTOPP/FAGENHETID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "POSTOPP/INNDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "POSTOPP/UTDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "SAMARBEIDSPART/TJENESTER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "SAMARBEIDSPART/INSTITUSJONID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TAKST/TYPEFORSKRIFT",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TAKST/TAKSTNUMMER",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TAKST/ANTALL",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "REFENHET/ENHETID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "REFENHET/TYPEENHET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "UTSETTELSE/UTSETTKODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "UTSETTELSE/UTSETTDATO",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "UTSETTELSE/DATOEPISODE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TILTAK/TYPETILTAK",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TILTAK/STARTDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TILTAK/SLUTTDATOTID",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MALERESULTAT/MALERESULTATNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MALERESULTAT/VERDI",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "MALERESULTAT/ENHET",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TILSTAND/TILSTNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "TILSTAND/AKSE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HELSEPERSON/POLUTFORENDE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HELSEPERSON/SPESIALIST",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "HELSEPERSON/ROLLE",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "PROSEDYRE/PROSNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "PROSEDYRE/TILSTNR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KODE/KODENR",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KODE/KODEVERK",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KODE/KODEVERSJON",
           "size": 350
         },
         {
           "Case": "Leaf",
-          "name": "Norsk Pasient Register - Somatikk",
+          "name": "KODE/KODEVERDI",
           "size": 350
         }
       ]

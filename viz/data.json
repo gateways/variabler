@@ -1,380 +1,3329 @@
 {
- "name": "flare",
- "children": [
-  {
-   "name": "analytics",
-   "children": [
+  "name": "HRR Variables",
+  "children": [
     {
-     "name": "cluster",
-     "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
-     ]
+      "name": "Dødsårsakregister",
+      "children": [
+        {
+          "name": "GENERELLE/IDENT",
+          "size": 100,
+          "children": []
+        },
+        {
+          "name": "GENERELLE/KJONN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ALDER_AR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ALDER_DAGER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BOSTEDSKOMMUNE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DODSTIDSPUNKT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DODSSTED",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DODSKOMMUNE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BOSTEDSLAND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/OPPHOLDSKATEGORI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MELDINGSTYPER_INN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SPES_OMST_A",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SPES_OMST_B",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SKADESTED",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SKADEAKTIVITET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/TYPE_DIAGNOSE_KODEVERK",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/EU_SHORTLIST_1998",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DIAGNOSE_UNDERLIGGENDE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DIAGNOSE_SKADE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ARSAK_DIAGNOSER_IA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ARSAK_DIAGNOSER_IB",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ARSAK_DIAGNOSER_IC",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ARSAK_DIAGNOSER_II",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ALLE_DIAGNOSER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/OBDUKSJONSTYPE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        }
+      ]
     },
     {
-     "name": "graph",
-     "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
-     ]
+      "name": "Medisinsk Fødselregister",
+      "children": [
+        {
+          "name": "GENERELLE/VERSJON_DATABASE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/VERSJON_RECORD",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KILDE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ID_BARN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ID_MOR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ID_FAR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FODESTED_KAT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FODESTED_KAT_5",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HOVEDINSTNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/INSTNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HELSEFORETAK",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HELSEREGION",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BOHELSEREGION_DAGENS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MFDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MOR_FAAR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MFMND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/GEN_MFNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MORS_ALDER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MORS_ALDER_DESIMALT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MORS_ALDER_KAT_K6",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BOKOMM",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BOFYLKE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BOKOMM_DAGENS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BOFYLKE_DAGENS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SIVST",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SIVST_2",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SLEKTF",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FFDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FAR_FAAR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FFMND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/GEN_FFNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FARS_ALDER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FARS_ALDER_KAT_K8",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PARITET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PARITET_5",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PARITET_MOR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PARITET_MFR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DODFODTE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DODFODTE_5",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/LEVENDEFODTE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/LEVENDEFODTE_5",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SPABORT_12",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SPABORT_12_5",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SPABORT_23",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SPABORT_23_5",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KSNITT_TIDLIGERE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SMENSD",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SMENS_MND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SMENSD_KODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/UL_TERMIN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/UL_TERMIN_AAR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/UL_TERMIN_MND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/IVF_INNSETT_DATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SVLEN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SVLEN_KAT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SVLEN_DG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SVLEN_UL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SVLEN_UL_DG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SVLEN_SM",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SVLEN_SM_DG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ZSCORE_BW_GA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PRENAT_PAT_KODER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DIAG_FOER_SVGSK_INGEN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MORS_HELSE_FOER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ASTMA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HYPERTENSJON_KRONISK",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/NYRESYKDOM_KRONISK",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/URINVEIS_RES",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/REUM_ARTRITT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HJERTE_MOR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/EPILEPSI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DIABETES_MELLITUS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/THYREOIDEA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SYKDOM_MOR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KOSTNEI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FOLATF",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MULTIVITF",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DIAG_UNDER_SVGSK_INGEN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MORS_HELSE_UNDER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BLODN_SVGSK",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BLODN_F13",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BLODN_13_28",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BLODN_E28",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HYPERTENSIV_TILSTAND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HYPERTENSJON_ALENE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/EKLAMPSI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PREEKL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PREEKLTIDL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PREEKL_EKLAMPSI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HELLP",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HB_U9",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/RUBELLA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/VENERISK",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MULTIVITU",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FOLATU",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/LEGEMIDLER_UNDER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/LEGEMIDLER_FODSEL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ROYK_SAMTYKKE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ROYK_OPPL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ROYK_FOER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ROYK_FOER_ANT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ROYK_BEG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ROYK_BEG_ANT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ROYK_AVSL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ROYK_AVSL_ANT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MORS_HOYDE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MORS_VEKT_FOER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MORS_VEKT_SLUTT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KMI_FOER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KMI_SLUTT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FSTART",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ROBSON_10",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/INNGREP_TILTAK_INGEN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/LEIE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/INTERVENSJON",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/INDUKSJON_PROSTAGLANDIN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/INDUKSJON_OXYTOCIN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/INDUKSJON_AMNIOTOMI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/INDUKSJON_ANNET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/INNGREP",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/TANG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/VAKUUM",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/EPISIOTOMI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FRAMHJELP",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/UTTREKKING",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KSNITT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KSNITT_PLANLAGT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KOMPL_INGEN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KOMPLIKASJONER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/VANNAVGANG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ABRUPTIOP",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PLACENTA_PREVIA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/RUPTUR34",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BLODNING_O500",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DYSTOCI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ANESTESI_INGEN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/LYSTGASS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/OPIAT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/EPIDURAL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SPINAL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PUDENDAL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/INFILTRASJON",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PARACERV",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/NARKOSE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ANESTESI_ANNET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PLACENTA_NORMAL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/UTSKRAPING",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PLACENTAVEKT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/MANUELL_PLACENTA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/NAVLESNORLENGDE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FOSTERV_NORMAL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FOSTERV_POLYHYDRAMNION",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FOSTERV_OLIGOHYDRAMNION",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FOSTERV_MISF_STINK_INFI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/NAVLESNOR_NORMAL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/NAVLESNOR_KOMPL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/NAVLESNOR_OMSL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/NAVLESNOR_KNUTE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KOMPLIKASJONER_ETTER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/TROMBOSE_BEH",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FMND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FAAR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FLERFODSEL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PLURAL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PLUREK",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PLUREK_1",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KJONN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/VEKT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/LENGDE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/APGAR1",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/APGAR5",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/OVERFLYTTET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/UTVANDRET_DATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FODT_MFR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/TILSTAND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DAAR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DMND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/DODKAT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_DODFODT_MFR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_DOD_MFR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_DOD_TID_MFR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_FODT_MFR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_DODFOD_1000_WHO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_DODFOD_500_WHO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_DOD_TI_1000_WHO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_DOD_TI_500_WHO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_DOD_1000_WHO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_DOD_500_WHO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_FODT_1000_WHO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PERINAT_FODT_500_WHO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/BARNETS_HELSE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ABSTINENS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/NEO_DIAG_INGEN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/RESPIRATORISK_DISTR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/INTRAKRANIELL_BLODN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/KONJUNKTIVITT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/PLEXUSSKADE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/RH_ANTISTOFF",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SYSTEMISKANTIBIOTIKA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/RESPIRATOR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FRACT_CLAVICULAE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/CPAP",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/HOFTELEDDYSPL_PUTE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ANNEN_FRACTUR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/ICTERUS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FACIALISPARESE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C00_MALF_ALL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C01_ANENCEPH",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C02_SPINAB",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C03_ENCEPH",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C06_HYDROCEPH",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C11_MICROTIA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C13_TRANSPOS_GREAT_VESSELS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C15_HYPOPLASTIC_LEFT_HEART",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C18_CLEFT_PALATE_WITHOUT_CL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C19_CLEFT_LIP_PLUS_MINUS_CP",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C20_OESOPHAGEAL_ATRES_STENOS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C22_ANORECTAL_ATRES_STENOS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C24_HYPOSPADIA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C27_RENAL_AGENESIS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C31_LIMB_REDUCTION_DEFECTS_ALL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C38_DIAFRAGMATIC_HERNIA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C39_OMPHALOCELE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C40_GASTROSCHISIS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/C45_DOWN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/NEVRALRORSDEFEKTER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/IVF",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/IVFMETODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/IVFINSTITUSJON",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FODELAND_NAVN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/FODELAND_KODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SVLEN_IVF",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/SVLEN_IVF_DG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/IVF_DATO_EGGUTTAK",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "GENERELLE/IVF_DAG_EGGFRYS",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        }
+      ]
     },
     {
-     "name": "optimization",
-     "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
-     ]
+      "name": "Norsk Pasient Register - Somatikk",
+      "children": [
+        {
+          "name": "MELDING/VERSJON",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MELDING/MELDINGSTYPE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MELDING/FRADATOPERIODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MELDING/UTTAKDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MELDING/LEVERANDOR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MELDING/NAVNEPJ",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MELDING/VERSJONEPJ",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MELDING/VERSJONUT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MELDING/LOPENR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MELDING/TILDATOPERIODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MELDING/LOKALIDENT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KONTAKTPERSON/KONTPERSON",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KONTAKTPERSON/MELDTELEFON",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KONTAKTPERSON/MELDEPOST1",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KONTAKTPERSON/MELDEPOST2",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KONTAKTPERSON/TYPEKONTAKTPERSON",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "INSTITUSJON/INSTITUSJONID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "ENHET/ENHETID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "ENHET/ORGNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "ENHET/NACE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "ENHET/OFFAVDKODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "ENHET/RESHID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "ENHET/ISFREFUSJON",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "ENHET/ENHETLOKAL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "SLETT/OBJEKTTYPE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "SLETT/SLETTGUID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "OBJEKTHOLDER/PASIENTGUID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "OBJEKTHOLDER/PASIENTNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "PASIENT/PASIENTGUID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "PASIENT/PASIENTNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "PASIENT/KJONN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "PASIENT/FODSELSAR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "PASIENT/FODSELSVEKT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/HENVISNINGSPERIODEGUID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/HENVISNINGSPERIODEID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/HENVFRAINSTITUSJONID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/HENVFRATJENESTE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/HENVFRAHPR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/ANSIENDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/TRYGDENASJON",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/NYTILSTAND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/SLUTTDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/HENVTILINSTITUSJONID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/HENVTILTJENESTE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNINGSPERIODE/HENVTILHPR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/EPISODEGUID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/EPISODEID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/HENVISNINGSPERIODEID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/SERIEID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/INNDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/FRASTED",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/FRAINSTITUSJONID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/KOMMTJENESTE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/DEBITOR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/EPISODEFAG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/DELYTELSE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/FRITTBEHANDLINGSVALG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/KOMNRHJEM",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/BYDEL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/INNTILSTAND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/SAMTYKKEKOMPETANSE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/INNMATEHAST",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/ALDERIDAGER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/OMSORGSNIVA",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/UTTILSTAND",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/SLUTTKODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/EPIKRISEDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/TILSTED",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/TILINSTITUSJONID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/UTDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "EPISODE/EPIKRISESAMTYKKE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "AVDOPP/OPPHOLDSTYPE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "AVDOPP/AVDOPPAKTIVITET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "AVDOPP/PERMISJONSDOGN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KONTAKT/KONTAKTTYPE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KONTAKT/INITIATIVTAKER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KONTAKT/STEDAKTIVITET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KONTAKT/POLKONAKTIVITET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KONTAKT/POLINDIR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "INDIVIDUELLPLAN/INDIVIDUELLPLAN",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "INDIVIDUELLPLAN/ROLLEIP",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "INDIVIDUELLPLAN/INDIVIDUELLPLANDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/HENVID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/FORSTEHENVID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/MOTTAKSDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/HENVTYPE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/HENVVURD",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/HENVFORMAL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/FRITTBEHANDLINGSVALG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/SECONDOPINION",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/KOMNRHJEM",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/DEBITOR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/BYDEL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/KOMMUNALTJENESTE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/TUTOR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/OMSNIVAHENV",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/FAGOMRADE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/VURDDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/PAKKEFORLOP",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/TILSTANDSGRUPPE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/TILDELTDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/RETTTILHELSEHJELP",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/FRISTSTARTBEHANDLING",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/DATOFORMIDLET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/VENTETIDSLUTTDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HENVISNING/VENTETIDSLUTTKODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TIDSPUNKT/TIDSPUNKT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TIDSPUNKT/TYPETIDSPUNKT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TJENESTE/INSTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TJENESTE/TJENESTEENHETID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TJENESTE/STARTDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TJENESTE/SLUTTDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TJENESTE/TJENESTEFAG",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "DELTAKER/DELTAKERTYPE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MALING/TYPEMALING",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MALING/MALINGDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "PERMISJON/STARTDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "PERMISJON/STOPPDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "PERMISJON/PERMISJONTYPE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "POSTOPP/TJENESTEENHETID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "POSTOPP/FAGENHETID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "POSTOPP/INNDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "POSTOPP/UTDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "SAMARBEIDSPART/TJENESTER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "SAMARBEIDSPART/INSTITUSJONID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TAKST/TYPEFORSKRIFT",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TAKST/TAKSTNUMMER",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TAKST/ANTALL",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "REFENHET/ENHETID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "REFENHET/TYPEENHET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "UTSETTELSE/UTSETTKODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "UTSETTELSE/UTSETTDATO",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "UTSETTELSE/DATOEPISODE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TILTAK/TYPETILTAK",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TILTAK/STARTDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TILTAK/SLUTTDATOTID",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MALERESULTAT/MALERESULTATNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MALERESULTAT/VERDI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "MALERESULTAT/ENHET",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TILSTAND/TILSTNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "TILSTAND/AKSE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HELSEPERSON/POLUTFORENDE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HELSEPERSON/SPESIALIST",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "HELSEPERSON/ROLLE",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "PROSEDYRE/PROSNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "PROSEDYRE/TILSTNR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KODE/KODENR",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KODE/KODEVERK",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KODE/KODEVERSJON",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        },
+        {
+          "name": "KODE/KODEVERDI",
+          "size": 100,
+          "children": {
+            "_flags": "cached",
+            "id": 6
+          }
+        }
+      ]
     }
-   ]
-  },
-  {
-   "name": "animate",
-   "children": [
-    {"name": "Easing", "size": 17010},
-    {"name": "FunctionSequence", "size": 5842},
-    {
-     "name": "interpolate",
-     "children": [
-      {"name": "ArrayInterpolator", "size": 1983},
-      {"name": "ColorInterpolator", "size": 2047},
-      {"name": "DateInterpolator", "size": 1375},
-      {"name": "Interpolator", "size": 8746},
-      {"name": "MatrixInterpolator", "size": 2202},
-      {"name": "NumberInterpolator", "size": 1382},
-      {"name": "ObjectInterpolator", "size": 1629},
-      {"name": "PointInterpolator", "size": 1675},
-      {"name": "RectangleInterpolator", "size": 2042}
-     ]
-    },
-    {"name": "ISchedulable", "size": 1041},
-    {"name": "Parallel", "size": 5176},
-    {"name": "Pause", "size": 449},
-    {"name": "Scheduler", "size": 5593},
-    {"name": "Sequence", "size": 5534},
-    {"name": "Transition", "size": 9201},
-    {"name": "Transitioner", "size": 19975},
-    {"name": "TransitionEvent", "size": 1116},
-    {"name": "Tween", "size": 6006}
-   ]
-  },
-  {
-   "name": "data",
-   "children": [
-    {
-     "name": "converters",
-     "children": [
-      {"name": "Converters", "size": 721},
-      {"name": "DelimitedTextConverter", "size": 4294},
-      {"name": "GraphMLConverter", "size": 9800},
-      {"name": "IDataConverter", "size": 1314},
-      {"name": "JSONConverter", "size": 2220}
-     ]
-    },
-    {"name": "DataField", "size": 1759},
-    {"name": "DataSchema", "size": 2165},
-    {"name": "DataSet", "size": 586},
-    {"name": "DataSource", "size": 3331},
-    {"name": "DataTable", "size": 772},
-    {"name": "DataUtil", "size": 3322}
-   ]
-  },
-  {
-   "name": "display",
-   "children": [
-    {"name": "DirtySprite", "size": 8833},
-    {"name": "LineSprite", "size": 1732},
-    {"name": "RectSprite", "size": 3623},
-    {"name": "TextSprite", "size": 10066}
-   ]
-  },
-  {
-   "name": "flex",
-   "children": [
-    {"name": "FlareVis", "size": 4116}
-   ]
-  },
-  {
-   "name": "physics",
-   "children": [
-    {"name": "DragForce", "size": 1082},
-    {"name": "GravityForce", "size": 1336},
-    {"name": "IForce", "size": 319},
-    {"name": "NBodyForce", "size": 10498},
-    {"name": "Particle", "size": 2822},
-    {"name": "Simulation", "size": 9983},
-    {"name": "Spring", "size": 2213},
-    {"name": "SpringForce", "size": 1681}
-   ]
-  },
-  {
-   "name": "query",
-   "children": [
-    {"name": "AggregateExpression", "size": 1616},
-    {"name": "And", "size": 1027},
-    {"name": "Arithmetic", "size": 3891},
-    {"name": "Average", "size": 891},
-    {"name": "BinaryExpression", "size": 2893},
-    {"name": "Comparison", "size": 5103},
-    {"name": "CompositeExpression", "size": 3677},
-    {"name": "Count", "size": 781},
-    {"name": "DateUtil", "size": 4141},
-    {"name": "Distinct", "size": 933},
-    {"name": "Expression", "size": 5130},
-    {"name": "ExpressionIterator", "size": 3617},
-    {"name": "Fn", "size": 3240},
-    {"name": "If", "size": 2732},
-    {"name": "IsA", "size": 2039},
-    {"name": "Literal", "size": 1214},
-    {"name": "Match", "size": 3748},
-    {"name": "Maximum", "size": 843},
-    {
-     "name": "methods",
-     "children": [
-      {"name": "add", "size": 593},
-      {"name": "and", "size": 330},
-      {"name": "average", "size": 287},
-      {"name": "count", "size": 277},
-      {"name": "distinct", "size": 292},
-      {"name": "div", "size": 595},
-      {"name": "eq", "size": 594},
-      {"name": "fn", "size": 460},
-      {"name": "gt", "size": 603},
-      {"name": "gte", "size": 625},
-      {"name": "iff", "size": 748},
-      {"name": "isa", "size": 461},
-      {"name": "lt", "size": 597},
-      {"name": "lte", "size": 619},
-      {"name": "max", "size": 283},
-      {"name": "min", "size": 283},
-      {"name": "mod", "size": 591},
-      {"name": "mul", "size": 603},
-      {"name": "neq", "size": 599},
-      {"name": "not", "size": 386},
-      {"name": "or", "size": 323},
-      {"name": "orderby", "size": 307},
-      {"name": "range", "size": 772},
-      {"name": "select", "size": 296},
-      {"name": "stddev", "size": 363},
-      {"name": "sub", "size": 600},
-      {"name": "sum", "size": 280},
-      {"name": "update", "size": 307},
-      {"name": "variance", "size": 335},
-      {"name": "where", "size": 299},
-      {"name": "xor", "size": 354},
-      {"name": "_", "size": 264}
-     ]
-    },
-    {"name": "Minimum", "size": 843},
-    {"name": "Not", "size": 1554},
-    {"name": "Or", "size": 970},
-    {"name": "Query", "size": 13896},
-    {"name": "Range", "size": 1594},
-    {"name": "StringUtil", "size": 4130},
-    {"name": "Sum", "size": 791},
-    {"name": "Variable", "size": 1124},
-    {"name": "Variance", "size": 1876},
-    {"name": "Xor", "size": 1101}
-   ]
-  },
-  {
-   "name": "scale",
-   "children": [
-    {"name": "IScaleMap", "size": 2105},
-    {"name": "LinearScale", "size": 1316},
-    {"name": "LogScale", "size": 3151},
-    {"name": "OrdinalScale", "size": 3770},
-    {"name": "QuantileScale", "size": 2435},
-    {"name": "QuantitativeScale", "size": 4839},
-    {"name": "RootScale", "size": 1756},
-    {"name": "Scale", "size": 4268},
-    {"name": "ScaleType", "size": 1821},
-    {"name": "TimeScale", "size": 5833}
-   ]
-  },
-  {
-   "name": "util",
-   "children": [
-    {"name": "Arrays", "size": 8258},
-    {"name": "Colors", "size": 10001},
-    {"name": "Dates", "size": 8217},
-    {"name": "Displays", "size": 12555},
-    {"name": "Filter", "size": 2324},
-    {"name": "Geometry", "size": 10993},
-    {
-     "name": "heap",
-     "children": [
-      {"name": "FibonacciHeap", "size": 9354},
-      {"name": "HeapNode", "size": 1233}
-     ]
-    },
-    {"name": "IEvaluable", "size": 335},
-    {"name": "IPredicate", "size": 383},
-    {"name": "IValueProxy", "size": 874},
-    {
-     "name": "math",
-     "children": [
-      {"name": "DenseMatrix", "size": 3165},
-      {"name": "IMatrix", "size": 2815},
-      {"name": "SparseMatrix", "size": 3366}
-     ]
-    },
-    {"name": "Maths", "size": 17705},
-    {"name": "Orientation", "size": 1486},
-    {
-     "name": "palette",
-     "children": [
-      {"name": "ColorPalette", "size": 6367},
-      {"name": "Palette", "size": 1229},
-      {"name": "ShapePalette", "size": 2059},
-      {"name": "SizePalette", "size": 2291}
-     ]
-    },
-    {"name": "Property", "size": 5559},
-    {"name": "Shapes", "size": 19118},
-    {"name": "Sort", "size": 6887},
-    {"name": "Stats", "size": 6557},
-    {"name": "Strings", "size": 22026}
-   ]
-  },
-  {
-   "name": "vis",
-   "children": [
-    {
-     "name": "axis",
-     "children": [
-      {"name": "Axes", "size": 1302},
-      {"name": "Axis", "size": 24593},
-      {"name": "AxisGridLine", "size": 652},
-      {"name": "AxisLabel", "size": 636},
-      {"name": "CartesianAxes", "size": 6703}
-     ]
-    },
-    {
-     "name": "controls",
-     "children": [
-      {"name": "AnchorControl", "size": 2138},
-      {"name": "ClickControl", "size": 3824},
-      {"name": "Control", "size": 1353},
-      {"name": "ControlList", "size": 4665},
-      {"name": "DragControl", "size": 2649},
-      {"name": "ExpandControl", "size": 2832},
-      {"name": "HoverControl", "size": 4896},
-      {"name": "IControl", "size": 763},
-      {"name": "PanZoomControl", "size": 5222},
-      {"name": "SelectionControl", "size": 7862},
-      {"name": "TooltipControl", "size": 8435}
-     ]
-    },
-    {
-     "name": "data",
-     "children": [
-      {"name": "Data", "size": 20544},
-      {"name": "DataList", "size": 19788},
-      {"name": "DataSprite", "size": 10349},
-      {"name": "EdgeSprite", "size": 3301},
-      {"name": "NodeSprite", "size": 19382},
-      {
-       "name": "render",
-       "children": [
-        {"name": "ArrowType", "size": 698},
-        {"name": "EdgeRenderer", "size": 5569},
-        {"name": "IRenderer", "size": 353},
-        {"name": "ShapeRenderer", "size": 2247}
-       ]
-      },
-      {"name": "ScaleBinding", "size": 11275},
-      {"name": "Tree", "size": 7147},
-      {"name": "TreeBuilder", "size": 9930}
-     ]
-    },
-    {
-     "name": "events",
-     "children": [
-      {"name": "DataEvent", "size": 2313},
-      {"name": "SelectionEvent", "size": 1880},
-      {"name": "TooltipEvent", "size": 1701},
-      {"name": "VisualizationEvent", "size": 1117}
-     ]
-    },
-    {
-     "name": "legend",
-     "children": [
-      {"name": "Legend", "size": 20859},
-      {"name": "LegendItem", "size": 4614},
-      {"name": "LegendRange", "size": 10530}
-     ]
-    },
-    {
-     "name": "operator",
-     "children": [
-      {
-       "name": "distortion",
-       "children": [
-        {"name": "BifocalDistortion", "size": 4461},
-        {"name": "Distortion", "size": 6314},
-        {"name": "FisheyeDistortion", "size": 3444}
-       ]
-      },
-      {
-       "name": "encoder",
-       "children": [
-        {"name": "ColorEncoder", "size": 3179},
-        {"name": "Encoder", "size": 4060},
-        {"name": "PropertyEncoder", "size": 4138},
-        {"name": "ShapeEncoder", "size": 1690},
-        {"name": "SizeEncoder", "size": 1830}
-       ]
-      },
-      {
-       "name": "filter",
-       "children": [
-        {"name": "FisheyeTreeFilter", "size": 5219},
-        {"name": "GraphDistanceFilter", "size": 3165},
-        {"name": "VisibilityFilter", "size": 3509}
-       ]
-      },
-      {"name": "IOperator", "size": 1286},
-      {
-       "name": "label",
-       "children": [
-        {"name": "Labeler", "size": 9956},
-        {"name": "RadialLabeler", "size": 3899},
-        {"name": "StackedAreaLabeler", "size": 3202}
-       ]
-      },
-      {
-       "name": "layout",
-       "children": [
-        {"name": "AxisLayout", "size": 6725},
-        {"name": "BundledEdgeRouter", "size": 3727},
-        {"name": "CircleLayout", "size": 9317},
-        {"name": "CirclePackingLayout", "size": 12003},
-        {"name": "DendrogramLayout", "size": 4853},
-        {"name": "ForceDirectedLayout", "size": 8411},
-        {"name": "IcicleTreeLayout", "size": 4864},
-        {"name": "IndentedTreeLayout", "size": 3174},
-        {"name": "Layout", "size": 7881},
-        {"name": "NodeLinkTreeLayout", "size": 12870},
-        {"name": "PieLayout", "size": 2728},
-        {"name": "RadialTreeLayout", "size": 12348},
-        {"name": "RandomLayout", "size": 870},
-        {"name": "StackedAreaLayout", "size": 9121},
-        {"name": "TreeMapLayout", "size": 9191}
-       ]
-      },
-      {"name": "Operator", "size": 2490},
-      {"name": "OperatorList", "size": 5248},
-      {"name": "OperatorSequence", "size": 4190},
-      {"name": "OperatorSwitch", "size": 2581},
-      {"name": "SortOperator", "size": 2023}
-     ]
-    },
-    {"name": "Visualization", "size": 16540}
-   ]
-  }
- ]
+  ]
 }

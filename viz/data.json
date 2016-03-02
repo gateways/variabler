@@ -1,135 +1,141 @@
 {
   "Case": "Branch",
-  "name": "HRR Variables",
+  "name": "HRR Nodes",
   "children": [
     {
       "Case": "Branch",
       "name": "Dødsårsakregister",
       "children": [
         {
-          "Case": "Leaf",
-          "name": "GENERELLE/IDENT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KJONN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ALDER_AR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ALDER_DAGER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BOSTEDSKOMMUNE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DODSTIDSPUNKT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DODSSTED",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DODSKOMMUNE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BOSTEDSLAND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/OPPHOLDSKATEGORI",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MELDINGSTYPER_INN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SPES_OMST_A",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SPES_OMST_B",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SKADESTED",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SKADEAKTIVITET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/TYPE_DIAGNOSE_KODEVERK",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/EU_SHORTLIST_1998",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DIAGNOSE_UNDERLIGGENDE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DIAGNOSE_SKADE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ARSAK_DIAGNOSER_IA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ARSAK_DIAGNOSER_IB",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ARSAK_DIAGNOSER_IC",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ARSAK_DIAGNOSER_II",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ALLE_DIAGNOSER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/OBDUKSJONSTYPE",
-          "size": 350
+          "Case": "Branch",
+          "name": "GENERELLE",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
         }
       ]
     },
@@ -138,1199 +144,1205 @@
       "name": "Medisinsk Fødselregister",
       "children": [
         {
-          "Case": "Leaf",
-          "name": "GENERELLE/VERSJON_DATABASE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/VERSJON_RECORD",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KILDE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ID_BARN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ID_MOR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ID_FAR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FODESTED_KAT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FODESTED_KAT_5",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HOVEDINSTNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/INSTNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HELSEFORETAK",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HELSEREGION",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BOHELSEREGION_DAGENS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MFDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MOR_FAAR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MFMND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/GEN_MFNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MORS_ALDER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MORS_ALDER_DESIMALT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MORS_ALDER_KAT_K6",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BOKOMM",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BOFYLKE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BOKOMM_DAGENS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BOFYLKE_DAGENS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SIVST",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SIVST_2",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SLEKTF",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FFDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FAR_FAAR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FFMND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/GEN_FFNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FARS_ALDER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FARS_ALDER_KAT_K8",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PARITET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PARITET_5",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PARITET_MOR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PARITET_MFR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DODFODTE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DODFODTE_5",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/LEVENDEFODTE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/LEVENDEFODTE_5",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SPABORT_12",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SPABORT_12_5",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SPABORT_23",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SPABORT_23_5",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KSNITT_TIDLIGERE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SMENSD",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SMENS_MND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SMENSD_KODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/UL_TERMIN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/UL_TERMIN_AAR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/UL_TERMIN_MND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/IVF_INNSETT_DATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SVLEN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SVLEN_KAT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SVLEN_DG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SVLEN_UL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SVLEN_UL_DG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SVLEN_SM",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SVLEN_SM_DG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ZSCORE_BW_GA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PRENAT_PAT_KODER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DIAG_FOER_SVGSK_INGEN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MORS_HELSE_FOER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ASTMA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HYPERTENSJON_KRONISK",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/NYRESYKDOM_KRONISK",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/URINVEIS_RES",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/REUM_ARTRITT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HJERTE_MOR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/EPILEPSI",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DIABETES_MELLITUS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/THYREOIDEA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SYKDOM_MOR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KOSTNEI",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FOLATF",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MULTIVITF",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DIAG_UNDER_SVGSK_INGEN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MORS_HELSE_UNDER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BLODN_SVGSK",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BLODN_F13",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BLODN_13_28",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BLODN_E28",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HYPERTENSIV_TILSTAND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HYPERTENSJON_ALENE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/EKLAMPSI",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PREEKL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PREEKLTIDL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PREEKL_EKLAMPSI",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HELLP",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HB_U9",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/RUBELLA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/VENERISK",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MULTIVITU",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FOLATU",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/LEGEMIDLER_UNDER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/LEGEMIDLER_FODSEL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ROYK_SAMTYKKE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ROYK_OPPL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ROYK_FOER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ROYK_FOER_ANT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ROYK_BEG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ROYK_BEG_ANT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ROYK_AVSL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ROYK_AVSL_ANT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MORS_HOYDE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MORS_VEKT_FOER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MORS_VEKT_SLUTT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KMI_FOER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KMI_SLUTT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FSTART",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ROBSON_10",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/INNGREP_TILTAK_INGEN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/LEIE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/INTERVENSJON",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/INDUKSJON_PROSTAGLANDIN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/INDUKSJON_OXYTOCIN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/INDUKSJON_AMNIOTOMI",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/INDUKSJON_ANNET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/INNGREP",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/TANG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/VAKUUM",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/EPISIOTOMI",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FRAMHJELP",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/UTTREKKING",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KSNITT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KSNITT_PLANLAGT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KOMPL_INGEN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KOMPLIKASJONER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/VANNAVGANG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ABRUPTIOP",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PLACENTA_PREVIA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/RUPTUR34",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BLODNING_O500",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DYSTOCI",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ANESTESI_INGEN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/LYSTGASS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/OPIAT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/EPIDURAL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SPINAL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PUDENDAL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/INFILTRASJON",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PARACERV",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/NARKOSE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ANESTESI_ANNET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PLACENTA_NORMAL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/UTSKRAPING",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PLACENTAVEKT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/MANUELL_PLACENTA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/NAVLESNORLENGDE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FOSTERV_NORMAL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FOSTERV_POLYHYDRAMNION",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FOSTERV_OLIGOHYDRAMNION",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FOSTERV_MISF_STINK_INFI",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/NAVLESNOR_NORMAL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/NAVLESNOR_KOMPL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/NAVLESNOR_OMSL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/NAVLESNOR_KNUTE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KOMPLIKASJONER_ETTER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/TROMBOSE_BEH",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FMND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FAAR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FLERFODSEL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PLURAL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PLUREK",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PLUREK_1",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KJONN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/VEKT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/LENGDE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/APGAR1",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/APGAR5",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/OVERFLYTTET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/UTVANDRET_DATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FODT_MFR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/TILSTAND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DAAR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DMND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/DODKAT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_DODFODT_MFR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_DOD_MFR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_DOD_TID_MFR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_FODT_MFR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_DODFOD_1000_WHO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_DODFOD_500_WHO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_DOD_TI_1000_WHO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_DOD_TI_500_WHO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_DOD_1000_WHO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_DOD_500_WHO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_FODT_1000_WHO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PERINAT_FODT_500_WHO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/BARNETS_HELSE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ABSTINENS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/NEO_DIAG_INGEN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/RESPIRATORISK_DISTR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/INTRAKRANIELL_BLODN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/KONJUNKTIVITT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/PLEXUSSKADE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/RH_ANTISTOFF",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SYSTEMISKANTIBIOTIKA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/RESPIRATOR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FRACT_CLAVICULAE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/CPAP",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/HOFTELEDDYSPL_PUTE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ANNEN_FRACTUR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/ICTERUS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FACIALISPARESE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C00_MALF_ALL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C01_ANENCEPH",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C02_SPINAB",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C03_ENCEPH",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C06_HYDROCEPH",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C11_MICROTIA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C13_TRANSPOS_GREAT_VESSELS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C15_HYPOPLASTIC_LEFT_HEART",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C18_CLEFT_PALATE_WITHOUT_CL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C19_CLEFT_LIP_PLUS_MINUS_CP",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C20_OESOPHAGEAL_ATRES_STENOS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C22_ANORECTAL_ATRES_STENOS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C24_HYPOSPADIA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C27_RENAL_AGENESIS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C31_LIMB_REDUCTION_DEFECTS_ALL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C38_DIAFRAGMATIC_HERNIA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C39_OMPHALOCELE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C40_GASTROSCHISIS",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/C45_DOWN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/NEVRALRORSDEFEKTER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/IVF",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/IVFMETODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/IVFINSTITUSJON",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FODELAND_NAVN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/FODELAND_KODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SVLEN_IVF",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/SVLEN_IVF_DG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/IVF_DATO_EGGUTTAK",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "GENERELLE/IVF_DAG_EGGFRYS",
-          "size": 350
+          "Case": "Branch",
+          "name": "GENERELLE",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
         }
       ]
     },
@@ -1339,754 +1351,928 @@
       "name": "Norsk Pasient Register - Somatikk",
       "children": [
         {
-          "Case": "Leaf",
-          "name": "MELDING/VERSJON",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MELDING/MELDINGSTYPE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MELDING/FRADATOPERIODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MELDING/UTTAKDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MELDING/LEVERANDOR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MELDING/NAVNEPJ",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MELDING/VERSJONEPJ",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MELDING/VERSJONUT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MELDING/LOPENR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MELDING/TILDATOPERIODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MELDING/LOKALIDENT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KONTAKTPERSON/KONTPERSON",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KONTAKTPERSON/MELDTELEFON",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KONTAKTPERSON/MELDEPOST1",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KONTAKTPERSON/MELDEPOST2",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KONTAKTPERSON/TYPEKONTAKTPERSON",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "INSTITUSJON/INSTITUSJONID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "ENHET/ENHETID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "ENHET/ORGNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "ENHET/NACE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "ENHET/OFFAVDKODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "ENHET/RESHID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "ENHET/ISFREFUSJON",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "ENHET/ENHETLOKAL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "SLETT/OBJEKTTYPE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "SLETT/SLETTGUID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "OBJEKTHOLDER/PASIENTGUID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "OBJEKTHOLDER/PASIENTNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "PASIENT/PASIENTGUID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "PASIENT/PASIENTNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "PASIENT/KJONN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "PASIENT/FODSELSAR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "PASIENT/FODSELSVEKT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/HENVISNINGSPERIODEGUID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/HENVISNINGSPERIODEID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/HENVFRAINSTITUSJONID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/HENVFRATJENESTE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/HENVFRAHPR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/ANSIENDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/TRYGDENASJON",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/NYTILSTAND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/SLUTTDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/HENVTILINSTITUSJONID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/HENVTILTJENESTE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNINGSPERIODE/HENVTILHPR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/EPISODEGUID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/EPISODEID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/HENVISNINGSPERIODEID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/SERIEID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/INNDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/FRASTED",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/FRAINSTITUSJONID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/KOMMTJENESTE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/DEBITOR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/EPISODEFAG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/DELYTELSE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/FRITTBEHANDLINGSVALG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/KOMNRHJEM",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/BYDEL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/INNTILSTAND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/SAMTYKKEKOMPETANSE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/INNMATEHAST",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/ALDERIDAGER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/OMSORGSNIVA",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/UTTILSTAND",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/SLUTTKODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/EPIKRISEDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/TILSTED",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/TILINSTITUSJONID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/UTDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "EPISODE/EPIKRISESAMTYKKE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "AVDOPP/OPPHOLDSTYPE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "AVDOPP/AVDOPPAKTIVITET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "AVDOPP/PERMISJONSDOGN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KONTAKT/KONTAKTTYPE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KONTAKT/INITIATIVTAKER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KONTAKT/STEDAKTIVITET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KONTAKT/POLKONAKTIVITET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KONTAKT/POLINDIR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "INDIVIDUELLPLAN/INDIVIDUELLPLAN",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "INDIVIDUELLPLAN/ROLLEIP",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "INDIVIDUELLPLAN/INDIVIDUELLPLANDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/HENVID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/FORSTEHENVID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/MOTTAKSDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/HENVTYPE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/HENVVURD",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/HENVFORMAL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/FRITTBEHANDLINGSVALG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/SECONDOPINION",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/KOMNRHJEM",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/DEBITOR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/BYDEL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/KOMMUNALTJENESTE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/TUTOR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/OMSNIVAHENV",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/FAGOMRADE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/VURDDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/PAKKEFORLOP",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/TILSTANDSGRUPPE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/TILDELTDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/RETTTILHELSEHJELP",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/FRISTSTARTBEHANDLING",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/DATOFORMIDLET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/VENTETIDSLUTTDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HENVISNING/VENTETIDSLUTTKODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TIDSPUNKT/TIDSPUNKT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TIDSPUNKT/TYPETIDSPUNKT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TJENESTE/INSTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TJENESTE/TJENESTEENHETID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TJENESTE/STARTDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TJENESTE/SLUTTDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TJENESTE/TJENESTEFAG",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "DELTAKER/DELTAKERTYPE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MALING/TYPEMALING",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MALING/MALINGDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "PERMISJON/STARTDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "PERMISJON/STOPPDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "PERMISJON/PERMISJONTYPE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "POSTOPP/TJENESTEENHETID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "POSTOPP/FAGENHETID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "POSTOPP/INNDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "POSTOPP/UTDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "SAMARBEIDSPART/TJENESTER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "SAMARBEIDSPART/INSTITUSJONID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TAKST/TYPEFORSKRIFT",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TAKST/TAKSTNUMMER",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TAKST/ANTALL",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "REFENHET/ENHETID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "REFENHET/TYPEENHET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "UTSETTELSE/UTSETTKODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "UTSETTELSE/UTSETTDATO",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "UTSETTELSE/DATOEPISODE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TILTAK/TYPETILTAK",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TILTAK/STARTDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TILTAK/SLUTTDATOTID",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MALERESULTAT/MALERESULTATNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MALERESULTAT/VERDI",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "MALERESULTAT/ENHET",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TILSTAND/TILSTNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "TILSTAND/AKSE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HELSEPERSON/POLUTFORENDE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HELSEPERSON/SPESIALIST",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "HELSEPERSON/ROLLE",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "PROSEDYRE/PROSNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "PROSEDYRE/TILSTNR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KODE/KODENR",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KODE/KODEVERK",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KODE/KODEVERSJON",
-          "size": 350
-        },
-        {
-          "Case": "Leaf",
-          "name": "KODE/KODEVERDI",
-          "size": 350
+          "Case": "Branch",
+          "name": "MELDING",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "KONTAKTPERSON",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "INSTITUSJON",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "ENHET",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "SLETT",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "OBJEKTHOLDER",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "PASIENT",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "HENVISNINGSPERIODE",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "EPISODE",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "AVDOPP",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "KONTAKT",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "INDIVIDUELLPLAN",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "HENVISNING",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "TIDSPUNKT",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "TJENESTE",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "DELTAKER",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "MALING",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "PERMISJON",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "POSTOPP",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "SAMARBEIDSPART",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "TAKST",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "REFENHET",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "UTSETTELSE",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "TILTAK",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "MALERESULTAT",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "TILSTAND",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "HELSEPERSON",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "PROSEDYRE",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "KODE",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "child",
+              "size": 450
+            }
+          ]
         }
       ]
     }

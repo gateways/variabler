@@ -13,127 +13,127 @@
             {
               "Case": "Leaf",
               "name": "IDENT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KJONN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ALDER_AR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ALDER_DAGER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOSTEDSKOMMUNE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODSTIDSPUNKT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODSSTED",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODSKOMMUNE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOSTEDSLAND",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OPPHOLDSKATEGORI",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MELDINGSTYPER_INN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPES_OMST_A",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPES_OMST_B",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SKADESTED",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SKADEAKTIVITET",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TYPE_DIAGNOSE_KODEVERK",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EU_SHORTLIST_1998",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIAGNOSE_UNDERLIGGENDE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIAGNOSE_SKADE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ARSAK_DIAGNOSER_IA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ARSAK_DIAGNOSER_IB",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ARSAK_DIAGNOSER_IC",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ARSAK_DIAGNOSER_II",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ALLE_DIAGNOSER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OBDUKSJONSTYPE",
-              "size": 650
+              "size": 450
             }
           ]
         }
@@ -150,1197 +150,1197 @@
             {
               "Case": "Leaf",
               "name": "VERSJON_DATABASE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VERSJON_RECORD",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KILDE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ID_BARN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ID_MOR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ID_FAR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODESTED_KAT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODESTED_KAT_5",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HOVEDINSTNR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INSTNR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HELSEFORETAK",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HELSEREGION",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOHELSEREGION_DAGENS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MFDATO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MOR_FAAR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MFMND",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GEN_MFNR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_ALDER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_ALDER_DESIMALT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_ALDER_KAT_K6",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOKOMM",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOFYLKE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOKOMM_DAGENS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOFYLKE_DAGENS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SIVST",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SIVST_2",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SLEKTF",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FFDATO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FAR_FAAR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FFMND",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GEN_FFNR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FARS_ALDER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FARS_ALDER_KAT_K8",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PARITET",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PARITET_5",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PARITET_MOR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PARITET_MFR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODFODTE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODFODTE_5",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEVENDEFODTE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEVENDEFODTE_5",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPABORT_12",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPABORT_12_5",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPABORT_23",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPABORT_23_5",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KSNITT_TIDLIGERE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SMENSD",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SMENS_MND",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SMENSD_KODE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UL_TERMIN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UL_TERMIN_AAR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UL_TERMIN_MND",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVF_INNSETT_DATO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_KAT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_DG",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_UL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_UL_DG",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_SM",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_SM_DG",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ZSCORE_BW_GA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PRENAT_PAT_KODER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIAG_FOER_SVGSK_INGEN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_HELSE_FOER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ASTMA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HYPERTENSJON_KRONISK",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NYRESYKDOM_KRONISK",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "URINVEIS_RES",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "REUM_ARTRITT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HJERTE_MOR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EPILEPSI",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIABETES_MELLITUS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "THYREOIDEA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SYKDOM_MOR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOSTNEI",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOLATF",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MULTIVITF",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIAG_UNDER_SVGSK_INGEN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_HELSE_UNDER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLODN_SVGSK",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLODN_F13",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLODN_13_28",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLODN_E28",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HYPERTENSIV_TILSTAND",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HYPERTENSJON_ALENE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EKLAMPSI",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PREEKL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PREEKLTIDL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PREEKL_EKLAMPSI",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HELLP",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HB_U9",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RUBELLA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VENERISK",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MULTIVITU",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOLATU",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEGEMIDLER_UNDER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEGEMIDLER_FODSEL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_SAMTYKKE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_OPPL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_FOER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_FOER_ANT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_BEG",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_BEG_ANT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_AVSL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_AVSL_ANT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_HOYDE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_VEKT_FOER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_VEKT_SLUTT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KMI_FOER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KMI_SLUTT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FSTART",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROBSON_10",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INNGREP_TILTAK_INGEN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEIE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INTERVENSJON",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INDUKSJON_PROSTAGLANDIN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INDUKSJON_OXYTOCIN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INDUKSJON_AMNIOTOMI",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INDUKSJON_ANNET",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INNGREP",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TANG",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VAKUUM",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EPISIOTOMI",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FRAMHJELP",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTTREKKING",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KSNITT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KSNITT_PLANLAGT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMPL_INGEN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMPLIKASJONER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VANNAVGANG",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ABRUPTIOP",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLACENTA_PREVIA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RUPTUR34",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLODNING_O500",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DYSTOCI",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANESTESI_INGEN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LYSTGASS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OPIAT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EPIDURAL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPINAL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PUDENDAL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INFILTRASJON",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PARACERV",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NARKOSE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANESTESI_ANNET",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLACENTA_NORMAL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTSKRAPING",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLACENTAVEKT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MANUELL_PLACENTA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVLESNORLENGDE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOSTERV_NORMAL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOSTERV_POLYHYDRAMNION",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOSTERV_OLIGOHYDRAMNION",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOSTERV_MISF_STINK_INFI",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVLESNOR_NORMAL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVLESNOR_KOMPL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVLESNOR_OMSL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVLESNOR_KNUTE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMPLIKASJONER_ETTER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TROMBOSE_BEH",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FDATO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FMND",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FAAR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FTID",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FLERFODSEL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLURAL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLUREK",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLUREK_1",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KJONN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VEKT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LENGDE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HODE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "APGAR1",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "APGAR5",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OVERFLYTTET",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTVANDRET_DATO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODT_MFR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TILSTAND",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DDATO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DAAR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DMND",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODKAT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DODFODT_MFR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_MFR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_TID_MFR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_FODT_MFR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DODFOD_1000_WHO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DODFOD_500_WHO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_TI_1000_WHO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_TI_500_WHO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_1000_WHO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_500_WHO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_FODT_1000_WHO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_FODT_500_WHO",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BARNETS_HELSE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ABSTINENS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NEO_DIAG_INGEN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RESPIRATORISK_DISTR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INTRAKRANIELL_BLODN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KONJUNKTIVITT",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLEXUSSKADE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RH_ANTISTOFF",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SYSTEMISKANTIBIOTIKA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RESPIRATOR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FRACT_CLAVICULAE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "CPAP",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HOFTELEDDYSPL_PUTE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNEN_FRACTUR",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ICTERUS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FACIALISPARESE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C00_MALF_ALL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C01_ANENCEPH",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C02_SPINAB",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C03_ENCEPH",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C06_HYDROCEPH",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C11_MICROTIA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C13_TRANSPOS_GREAT_VESSELS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C15_HYPOPLASTIC_LEFT_HEART",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C18_CLEFT_PALATE_WITHOUT_CL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C19_CLEFT_LIP_PLUS_MINUS_CP",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C20_OESOPHAGEAL_ATRES_STENOS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C22_ANORECTAL_ATRES_STENOS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C24_HYPOSPADIA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C27_RENAL_AGENESIS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C31_LIMB_REDUCTION_DEFECTS_ALL",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C38_DIAFRAGMATIC_HERNIA",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C39_OMPHALOCELE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C40_GASTROSCHISIS",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C45_DOWN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NEVRALRORSDEFEKTER",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVF",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVFMETODE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVFINSTITUSJON",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODELAND_NAVN",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODELAND_KODE",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_IVF",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_IVF_DG",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVF_DATO_EGGUTTAK",
-              "size": 650
+              "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVF_DAG_EGGFRYS",
-              "size": 650
+              "size": 450
             }
           ]
         }
@@ -1356,58 +1356,58 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/VERSJON",
-              "size": 650
+              "name": "VERSJON",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/MELDINGSTYPE",
-              "size": 650
+              "name": "MELDINGSTYPE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FRADATOPERIODE",
-              "size": 650
+              "name": "FRADATOPERIODE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/UTTAKDATO",
-              "size": 650
+              "name": "UTTAKDATO",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/LEVERANDOR",
-              "size": 650
+              "name": "LEVERANDOR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/NAVNEPJ",
-              "size": 650
+              "name": "NAVNEPJ",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/VERSJONEPJ",
-              "size": 650
+              "name": "VERSJONEPJ",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/VERSJONUT",
-              "size": 650
+              "name": "VERSJONUT",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/LOPENR",
-              "size": 650
+              "name": "LOPENR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TILDATOPERIODE",
-              "size": 650
+              "name": "TILDATOPERIODE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/LOKALIDENT",
-              "size": 650
+              "name": "LOKALIDENT",
+              "size": 450
             }
           ]
         },
@@ -1417,28 +1417,28 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/KONTPERSON",
-              "size": 650
+              "name": "KONTPERSON",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/MELDTELEFON",
-              "size": 650
+              "name": "MELDTELEFON",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/MELDEPOST1",
-              "size": 650
+              "name": "MELDEPOST1",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/MELDEPOST2",
-              "size": 650
+              "name": "MELDEPOST2",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TYPEKONTAKTPERSON",
-              "size": 650
+              "name": "TYPEKONTAKTPERSON",
+              "size": 450
             }
           ]
         },
@@ -1448,8 +1448,8 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/INSTITUSJONID",
-              "size": 650
+              "name": "INSTITUSJONID",
+              "size": 450
             }
           ]
         },
@@ -1459,38 +1459,38 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/ENHETID",
-              "size": 650
+              "name": "ENHETID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/ORGNR",
-              "size": 650
+              "name": "ORGNR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/NACE",
-              "size": 650
+              "name": "NACE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/OFFAVDKODE",
-              "size": 650
+              "name": "OFFAVDKODE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/RESHID",
-              "size": 650
+              "name": "RESHID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/ISFREFUSJON",
-              "size": 650
+              "name": "ISFREFUSJON",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/ENHETLOKAL",
-              "size": 650
+              "name": "ENHETLOKAL",
+              "size": 450
             }
           ]
         },
@@ -1500,13 +1500,13 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/OBJEKTTYPE",
-              "size": 650
+              "name": "OBJEKTTYPE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/SLETTGUID",
-              "size": 650
+              "name": "SLETTGUID",
+              "size": 450
             }
           ]
         },
@@ -1516,13 +1516,13 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/PASIENTGUID",
-              "size": 650
+              "name": "PASIENTGUID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/PASIENTNR",
-              "size": 650
+              "name": "PASIENTNR",
+              "size": 450
             }
           ]
         },
@@ -1532,28 +1532,28 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/PASIENTGUID",
-              "size": 650
+              "name": "PASIENTGUID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/PASIENTNR",
-              "size": 650
+              "name": "PASIENTNR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/KJONN",
-              "size": 650
+              "name": "KJONN",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FODSELSAR",
-              "size": 650
+              "name": "FODSELSAR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FODSELSVEKT",
-              "size": 650
+              "name": "FODSELSVEKT",
+              "size": 450
             }
           ]
         },
@@ -1563,63 +1563,63 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/HENVISNINGSPERIODEGUID",
-              "size": 650
+              "name": "HENVISNINGSPERIODEGUID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVISNINGSPERIODEID",
-              "size": 650
+              "name": "HENVISNINGSPERIODEID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVFRAINSTITUSJONID",
-              "size": 650
+              "name": "HENVFRAINSTITUSJONID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVFRATJENESTE",
-              "size": 650
+              "name": "HENVFRATJENESTE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVFRAHPR",
-              "size": 650
+              "name": "HENVFRAHPR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/ANSIENDATO",
-              "size": 650
+              "name": "ANSIENDATO",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TRYGDENASJON",
-              "size": 650
+              "name": "TRYGDENASJON",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/NYTILSTAND",
-              "size": 650
+              "name": "NYTILSTAND",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/SLUTTDATO",
-              "size": 650
+              "name": "SLUTTDATO",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVTILINSTITUSJONID",
-              "size": 650
+              "name": "HENVTILINSTITUSJONID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVTILTJENESTE",
-              "size": 650
+              "name": "HENVTILTJENESTE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVTILHPR",
-              "size": 650
+              "name": "HENVTILHPR",
+              "size": 450
             }
           ]
         },
@@ -1629,133 +1629,133 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/EPISODEGUID",
-              "size": 650
+              "name": "EPISODEGUID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/EPISODEID",
-              "size": 650
+              "name": "EPISODEID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVISNINGSPERIODEID",
-              "size": 650
+              "name": "HENVISNINGSPERIODEID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/SERIEID",
-              "size": 650
+              "name": "SERIEID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/INNDATOTID",
-              "size": 650
+              "name": "INNDATOTID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FRASTED",
-              "size": 650
+              "name": "FRASTED",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FRAINSTITUSJONID",
-              "size": 650
+              "name": "FRAINSTITUSJONID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/KOMMTJENESTE",
-              "size": 650
+              "name": "KOMMTJENESTE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/DEBITOR",
-              "size": 650
+              "name": "DEBITOR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/EPISODEFAG",
-              "size": 650
+              "name": "EPISODEFAG",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/DELYTELSE",
-              "size": 650
+              "name": "DELYTELSE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FRITTBEHANDLINGSVALG",
-              "size": 650
+              "name": "FRITTBEHANDLINGSVALG",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/KOMNRHJEM",
-              "size": 650
+              "name": "KOMNRHJEM",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/BYDEL",
-              "size": 650
+              "name": "BYDEL",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/INNTILSTAND",
-              "size": 650
+              "name": "INNTILSTAND",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/SAMTYKKEKOMPETANSE",
-              "size": 650
+              "name": "SAMTYKKEKOMPETANSE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/INNMATEHAST",
-              "size": 650
+              "name": "INNMATEHAST",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/ALDERIDAGER",
-              "size": 650
+              "name": "ALDERIDAGER",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/OMSORGSNIVA",
-              "size": 650
+              "name": "OMSORGSNIVA",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/UTTILSTAND",
-              "size": 650
+              "name": "UTTILSTAND",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/SLUTTKODE",
-              "size": 650
+              "name": "SLUTTKODE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/EPIKRISEDATO",
-              "size": 650
+              "name": "EPIKRISEDATO",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TILSTED",
-              "size": 650
+              "name": "TILSTED",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TILINSTITUSJONID",
-              "size": 650
+              "name": "TILINSTITUSJONID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/UTDATOTID",
-              "size": 650
+              "name": "UTDATOTID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/EPIKRISESAMTYKKE",
-              "size": 650
+              "name": "EPIKRISESAMTYKKE",
+              "size": 450
             }
           ]
         },
@@ -1765,18 +1765,18 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/OPPHOLDSTYPE",
-              "size": 650
+              "name": "OPPHOLDSTYPE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/AVDOPPAKTIVITET",
-              "size": 650
+              "name": "AVDOPPAKTIVITET",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/PERMISJONSDOGN",
-              "size": 650
+              "name": "PERMISJONSDOGN",
+              "size": 450
             }
           ]
         },
@@ -1786,28 +1786,28 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/KONTAKTTYPE",
-              "size": 650
+              "name": "KONTAKTTYPE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/INITIATIVTAKER",
-              "size": 650
+              "name": "INITIATIVTAKER",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/STEDAKTIVITET",
-              "size": 650
+              "name": "STEDAKTIVITET",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/POLKONAKTIVITET",
-              "size": 650
+              "name": "POLKONAKTIVITET",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/POLINDIR",
-              "size": 650
+              "name": "POLINDIR",
+              "size": 450
             }
           ]
         },
@@ -1817,18 +1817,18 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/INDIVIDUELLPLAN",
-              "size": 650
+              "name": "INDIVIDUELLPLAN",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/ROLLEIP",
-              "size": 650
+              "name": "ROLLEIP",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/INDIVIDUELLPLANDATO",
-              "size": 650
+              "name": "INDIVIDUELLPLANDATO",
+              "size": 450
             }
           ]
         },
@@ -1838,123 +1838,123 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/HENVID",
-              "size": 650
+              "name": "HENVID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FORSTEHENVID",
-              "size": 650
+              "name": "FORSTEHENVID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/MOTTAKSDATO",
-              "size": 650
+              "name": "MOTTAKSDATO",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVTYPE",
-              "size": 650
+              "name": "HENVTYPE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVVURD",
-              "size": 650
+              "name": "HENVVURD",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/HENVFORMAL",
-              "size": 650
+              "name": "HENVFORMAL",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FRITTBEHANDLINGSVALG",
-              "size": 650
+              "name": "FRITTBEHANDLINGSVALG",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/SECONDOPINION",
-              "size": 650
+              "name": "SECONDOPINION",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/KOMNRHJEM",
-              "size": 650
+              "name": "KOMNRHJEM",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/DEBITOR",
-              "size": 650
+              "name": "DEBITOR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/BYDEL",
-              "size": 650
+              "name": "BYDEL",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/KOMMUNALTJENESTE",
-              "size": 650
+              "name": "KOMMUNALTJENESTE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TUTOR",
-              "size": 650
+              "name": "TUTOR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/OMSNIVAHENV",
-              "size": 650
+              "name": "OMSNIVAHENV",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FAGOMRADE",
-              "size": 650
+              "name": "FAGOMRADE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/VURDDATO",
-              "size": 650
+              "name": "VURDDATO",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/PAKKEFORLOP",
-              "size": 650
+              "name": "PAKKEFORLOP",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TILSTANDSGRUPPE",
-              "size": 650
+              "name": "TILSTANDSGRUPPE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TILDELTDATO",
-              "size": 650
+              "name": "TILDELTDATO",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/RETTTILHELSEHJELP",
-              "size": 650
+              "name": "RETTTILHELSEHJELP",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FRISTSTARTBEHANDLING",
-              "size": 650
+              "name": "FRISTSTARTBEHANDLING",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/DATOFORMIDLET",
-              "size": 650
+              "name": "DATOFORMIDLET",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/VENTETIDSLUTTDATO",
-              "size": 650
+              "name": "VENTETIDSLUTTDATO",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/VENTETIDSLUTTKODE",
-              "size": 650
+              "name": "VENTETIDSLUTTKODE",
+              "size": 450
             }
           ]
         },
@@ -1964,13 +1964,13 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/TIDSPUNKT",
-              "size": 650
+              "name": "TIDSPUNKT",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TYPETIDSPUNKT",
-              "size": 650
+              "name": "TYPETIDSPUNKT",
+              "size": 450
             }
           ]
         },
@@ -1980,28 +1980,28 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/INSTID",
-              "size": 650
+              "name": "INSTID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TJENESTEENHETID",
-              "size": 650
+              "name": "TJENESTEENHETID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/STARTDATOTID",
-              "size": 650
+              "name": "STARTDATOTID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/SLUTTDATOTID",
-              "size": 650
+              "name": "SLUTTDATOTID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TJENESTEFAG",
-              "size": 650
+              "name": "TJENESTEFAG",
+              "size": 450
             }
           ]
         },
@@ -2011,8 +2011,8 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/DELTAKERTYPE",
-              "size": 650
+              "name": "DELTAKERTYPE",
+              "size": 450
             }
           ]
         },
@@ -2022,13 +2022,13 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/TYPEMALING",
-              "size": 650
+              "name": "TYPEMALING",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/MALINGDATOTID",
-              "size": 650
+              "name": "MALINGDATOTID",
+              "size": 450
             }
           ]
         },
@@ -2038,18 +2038,18 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/STARTDATOTID",
-              "size": 650
+              "name": "STARTDATOTID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/STOPPDATOTID",
-              "size": 650
+              "name": "STOPPDATOTID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/PERMISJONTYPE",
-              "size": 650
+              "name": "PERMISJONTYPE",
+              "size": 450
             }
           ]
         },
@@ -2059,23 +2059,23 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/TJENESTEENHETID",
-              "size": 650
+              "name": "TJENESTEENHETID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/FAGENHETID",
-              "size": 650
+              "name": "FAGENHETID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/INNDATOTID",
-              "size": 650
+              "name": "INNDATOTID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/UTDATOTID",
-              "size": 650
+              "name": "UTDATOTID",
+              "size": 450
             }
           ]
         },
@@ -2085,13 +2085,13 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/TJENESTER",
-              "size": 650
+              "name": "TJENESTER",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/INSTITUSJONID",
-              "size": 650
+              "name": "INSTITUSJONID",
+              "size": 450
             }
           ]
         },
@@ -2101,18 +2101,18 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/TYPEFORSKRIFT",
-              "size": 650
+              "name": "TYPEFORSKRIFT",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TAKSTNUMMER",
-              "size": 650
+              "name": "TAKSTNUMMER",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/ANTALL",
-              "size": 650
+              "name": "ANTALL",
+              "size": 450
             }
           ]
         },
@@ -2122,13 +2122,13 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/ENHETID",
-              "size": 650
+              "name": "ENHETID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TYPEENHET",
-              "size": 650
+              "name": "TYPEENHET",
+              "size": 450
             }
           ]
         },
@@ -2138,18 +2138,18 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/UTSETTKODE",
-              "size": 650
+              "name": "UTSETTKODE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/UTSETTDATO",
-              "size": 650
+              "name": "UTSETTDATO",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/DATOEPISODE",
-              "size": 650
+              "name": "DATOEPISODE",
+              "size": 450
             }
           ]
         },
@@ -2159,18 +2159,18 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/TYPETILTAK",
-              "size": 650
+              "name": "TYPETILTAK",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/STARTDATOTID",
-              "size": 650
+              "name": "STARTDATOTID",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/SLUTTDATOTID",
-              "size": 650
+              "name": "SLUTTDATOTID",
+              "size": 450
             }
           ]
         },
@@ -2180,18 +2180,18 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/MALERESULTATNR",
-              "size": 650
+              "name": "MALERESULTATNR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/VERDI",
-              "size": 650
+              "name": "VERDI",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/ENHET",
-              "size": 650
+              "name": "ENHET",
+              "size": 450
             }
           ]
         },
@@ -2201,13 +2201,13 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/TILSTNR",
-              "size": 650
+              "name": "TILSTNR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/AKSE",
-              "size": 650
+              "name": "AKSE",
+              "size": 450
             }
           ]
         },
@@ -2217,18 +2217,18 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/POLUTFORENDE",
-              "size": 650
+              "name": "POLUTFORENDE",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/SPESIALIST",
-              "size": 650
+              "name": "SPESIALIST",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/ROLLE",
-              "size": 650
+              "name": "ROLLE",
+              "size": 450
             }
           ]
         },
@@ -2238,13 +2238,13 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/PROSNR",
-              "size": 650
+              "name": "PROSNR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/TILSTNR",
-              "size": 650
+              "name": "TILSTNR",
+              "size": 450
             }
           ]
         },
@@ -2254,23 +2254,1444 @@
           "children": [
             {
               "Case": "Leaf",
-              "name": "/KODENR",
-              "size": 650
+              "name": "KODENR",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/KODEVERK",
-              "size": 650
+              "name": "KODEVERK",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/KODEVERSJON",
-              "size": 650
+              "name": "KODEVERSJON",
+              "size": 450
             },
             {
               "Case": "Leaf",
-              "name": "/KODEVERDI",
-              "size": 650
+              "name": "KODEVERDI",
+              "size": 450
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Case": "Branch",
+      "name": "Gastronet",
+      "children": [
+        {
+          "Case": "Branch",
+          "name": "PASIENTINFO",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "PASIENTTYPE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ASA-SCORE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "RISIKOFAKTORER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PÅGÅENDE PANKREATITT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PÅGÅENDE KOLANGITT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "BLØDNINGSTENDENS",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ALVORLIG HJERTESYKDOM",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ALVORLIG LUNGESYKDOM",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DIABETES",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "INDIKASJON (EV MISTANKE)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "GALLEGANGSSTEIN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "MALIGN STENOSE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "BENIGN STENOSE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "UAVKLART STENOSE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PAPILLESTENOSE (SPHINCTER ODDI DYSFUNCTION, SOD)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PAPILLETUMOR",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "LEKKASJE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PRØVETAKING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "TIDLIGERE ERCP",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "NEI",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "TIDL MISLYKKET KANYLERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "TIDL MISLYKKET PRECUT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "TIDLIGERE ERCP KOMPLIKASJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "TIDLIGERE EST",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "METALL STENT IN SITU",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PLASTSTENT IN SITU",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "TIDLIGERE POST ERCP PANKREATITT",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "GJENNOMFØRING",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "PROSEDYREDATA",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DATO:",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "START (KL):",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SLUTT (KL):",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "CO2:",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SEDASJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PROFYLAKSE I RELASJON TIL PROSEDYREN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANTIBIOTIKA",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "NSAID SUPP",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PROFYLAKTISK PANKREAS STENT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIELLE PROBLEMER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "UROLIG PASIENT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "VENTRIKKELRETENSJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DUODENALSTENOSE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SLIMHINNEØDEM",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DIVERTIKKEL",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "TUMORINNVEKST",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "KIRURGISK ANASTOMOSE:",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "VANSKELIGHETSGRAD (ASGE 1-4)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PROSEDYRE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "GALLE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SFINKTEROTOMI",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STEINEKSTRAKSJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STENTPLASSERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "-METALLSTENT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STENTFJERNING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PRØVETAKING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DILATASJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ØNSKET KANYLERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "GJENNOMFØRT KANYLERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PRECUT FOR TILGANG",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PANCREAS",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SFINKTEROTOMI",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STEINEKSTRAKSJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STENTPLASSERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "-METALLSTENT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STENTFJERNING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PRØVETAKING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DILATASJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ØNSKET KANYLERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "GJENNOMFØRT KANYLERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PRECUT FOR TILGANG",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "BIPAPILLE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SFINKTEROTOMI",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STEINEKSTRAKSJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STENTPLASSERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STENTFJERNING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PRØVETAKING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DILATASJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ØNSKET KANYLERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "GJENNOMFØRT KANYLERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PRECUT FOR TILGANG",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "FUNN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "GALLE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "NORMALE FUNN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STEIN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STRIKTUR",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "LEKKASJE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PANCREAS",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "NORMALE FUNN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STEIN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STRIKTUR",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "LEKKASJE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ICD-10 HOVEDDIAGNOSE:",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "MÅLSETTING OPPNÅDD;",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "TYPE INNGREP;",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "KOMPLIKASJONER",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "PEROPERATIVE KOMPLIKASJONER (COTTON GRAD 1-3)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PEROPERATIVE KOMPLIKASJONER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "INGEN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "BLØDNING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PERFORASJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "EKSTRAVASERING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "KARDIOVASKULÆRT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "RESPIRATORISK",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANTIDOT GITT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER #1",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "POSTOPERATIVE KOMPLIKASJONER OPPDAGET DATO:",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "POSTOPERATIVE KOMPLIKASJONER (COTTON GRAD 1-3)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "POSTOPERATIVE KOMPLIKASJONER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "INGEN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PANKREATITT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "KOLANGITT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "BLØDNING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "KARDIOVASKULÆRT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "RESPIRATORISK",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PERFORASJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "STENTPERFORASJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "KONSEKVENSER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "RESULTAT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "MORS  (DATO):",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "CLAVIEN-DINDO (1-5)",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "SPØRSMÅL OM UNDERSØKELSEN",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "1. VAR UNDERSØKELSEN SMERTEFULL?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "2. HAR DU HATT LUFTSMERTER ELLER ANNET UBEHAG ETTER UNDERSØKELSEN?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "3. ER DU FORNØYD MED BEHANDLINGEN SOM BLE GITT?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "4. ER DU FORNØYD MED INFORMASJONEN DU FIKK OM UNDERSØKELSEN?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "5. H\n                E DU UFRIVILLIGE ”LEKKASJER” PÅ VEI TIL UNDERSØKELSEN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "6. HAR DU HATT NOEN UFRIVILLIGE ”LEKKASJER” PÅ HJEMVEI ETTER UNDERSØKELSE?",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "SPØRSMÅL OM TARMTØMMINGEN",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "7. VAR OPPSKRIFTEN DU FIKK FOR TARMTØMMING VANSKELIG Å FORSTÅ?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "8. SMAKTE TØMNINGSVÆSKEN VONDT?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "9. MEDFØRTE TØMNINGEN AV TARMEN MAGESMERTER?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "10. MEDFØRTE TØMNINGEN AV TARMEN KVALME?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "11. MEDFØRTE TØMNINGEN AV TARMEN OPPBLÅSTHET?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "12. MEDFØRTE TØMNINGEN AV TARMEN HODEPINE?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "13. MEDFØRTE TØMNINGEN AV TARMEN ANDRE PLAGER?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "HVIS JA, VENNLIGST SPESIFISER PLAGENE:",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANDRE KOMMENTARER",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "HVA SLAGS SEDASJON&#X2F;ANALGETIKA BLE GITT:",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "MIDAZOLAM",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PETHIDIN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "FENTANYL",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "RAPIFEN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET (FRITEKST):",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "TØMNINGSMIDDEL:",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "PEG LITER(TOTALT)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "TØMNING GITT SOM SPLIT DOSE:",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PICOPREP &#X2F; CITRAFLEET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "3-DAGERS TØMNING (FLYTENDE, TOILAX, KLYX):",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "(SPESIFISER):",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "TØMNINGSKVALITET (BOSTON BOWEL PREPARATION SCALE):",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "HØYRE KOLON (CAECUM OG ASCENDENS)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "TRANSVERSUM (INKLUDERER HØYRE OG VENSTRE FLEKSUR)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "VENSTRE KOLON (DESCENDENS, SIGMOIDEUM, REKTUM)",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "TIDLIGERE OPERERT:",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "NEI:",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "KOLONRESEKSJON:",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "GYNEKOLOGISK OPERASJON:",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNEN ABDOMINALOPERASJON:",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "INDIKASJON FOR U.S.:",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "SYMPTOMER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "POLYPPKTR",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "CRC KTR",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SLEKTSBELASTN. CRC",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SCREENING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "IBD KTR",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "SKOPØRENS KLINISKE DIAGNOSE:",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "IBS",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "IBD",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "CRC",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "OBSTIPASJON",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "ENDOSKOPIFUNN",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "NORMALE FUNN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "IBD",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "CRC",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "POLYPP(ER)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DIVERTIKLER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "ANTALL POLYPPER",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "ANTALL POLYPPER PÅVIST (KUN 5MM ELLER STØRRE), MER ENN 10 STK MARKERES 99",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "PRIORITER PROKSIMALE >10MM I RUTENE NEDENFOR HVIS DET ER MER ENN 2 SSA&#X2F;P",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "POLYPP 1",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DIAMETER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "FJERNET?",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "POLYPP 2",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DIAMETER #1",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "FJERNET? #1",
+              "size": 450
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Case": "Branch",
+      "name": "Kolsregisteret",
+      "children": [
+        {
+          "Case": "Branch",
+          "name": "INKLUSJONSKRITERIER",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "KOLS STATUS",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ER DET INNHENTET SAMTYKKE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "INNLAGT (PÅ SYKEHUSET)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "UTSKREVET (FRA AVDELING)",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "PASIENT",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "RØYKEVANER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANTALL ÅR RØYKT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANTALL SIGARETTER PER DAG",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANTALL PAKKÅR",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "HØYDE (CM)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "VEKT (KG)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "BMI",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ALDER",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "DATA VED INNKOMST",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "CRP (MG&#X2F;L)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "LPK (10I9&#X2F;L)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PH",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "KJENT KO-MORBIDITET",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "KORONAR HJERTESYKDOM",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "HYPERTENSJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "HJERTESVIKT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "OSTEOPOROSE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DIABETES MELLITUS",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "OBSTRUKTIV SØVNAPNÉSYNDROM",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ADIPOSITAS HYPOVENTILASJONSSYNDROM&#X2F;PICKWICK",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "LUNGEKREFT",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "DEPRESJON",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ASTMA",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANNET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "SPESIFISER",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "BEHANDLING UNDER OPPHOLDET",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "RESPIRASJONSSTØTTE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANTIBIOTIKABEHANDLING",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "DATA VED UTREISE",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "PASIENTEN DØD UNDER OPPHOLDET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "UTSKREVET&#X2F;OVERFLYTTET",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "CAT (COPD ASSESSMENT TEST)",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "ARTERIELL BLODGASS VED UTREISE ( MED .....L O2&#X2F;UTEN O2)",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "MED O2",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "L O2",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PH",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PACO2 (KPA)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PAO2 (KPA)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "BE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "BOBLER BASERT PÅ PAO2",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "SPIROMETRI VED UTREISE",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "FEV1 (L)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "(% AV FORVENTET)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "FVC (L)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "(% AV FORVENTET) #1",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "MEDIKAMENTER VED UTREISE (KRYSS AV FOR DET SOM ER AKTUELT)",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "ANTIBIOTIKA",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "PERORALE CORTICOSTEROIDER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "INHALASJONSTEROIDER",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "MYCOLYTICA",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "XANTINER&#X2F;TEOFYLLIN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "OKSYGEN",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "BETA2-STIMULATOR (HURTIGVIRKENDE)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "BETA2-STIMULATOR (LANGTIDSVIRKENDE&#X2F;LABA)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "KOMBINASJON (INHALASJONSSTEROIDER&#X2F;LABA)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANTICHOLINERGICA (KORTTIDSVIRKENDE)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "ANTICHOLINERGICA (LANGTIDSVIRKENDE&#X2F;LAMA)",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "FOSFODIESTERASEHEMMER",
+              "size": 450
+            }
+          ]
+        },
+        {
+          "Case": "Branch",
+          "name": "INFORMASJON&#X2F;ANBEFALING GITT TIL PASIENT OM:",
+          "children": [
+            {
+              "Case": "Leaf",
+              "name": "INFLUENSAVAKSINE",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "RØYKEAVVENNING",
+              "size": 450
+            },
+            {
+              "Case": "Leaf",
+              "name": "KOLS REHABILITERING",
+              "size": 450
             }
           ]
         }

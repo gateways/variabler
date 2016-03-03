@@ -39,12 +39,12 @@ title: variabler - IFF Net
         font-size: 14px;
     }
     
-    .viz {
+    #viz {
     	background-color: white;
     }
 </style>
 
-<div class="viz">
+<div id="viz">
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
@@ -58,7 +58,7 @@ title: variabler - IFF Net
     var diagonal = d3.svg.diagonal.radial()
         .projection(function(d) { return [d.y, d.x / 180 * Math.PI]; });
 
-    var svg = d3.select("body").append("svg")
+    var svg = d3.select("#viz").append("svg")
         .attr("width", diameter)
         .attr("height", diameter + 50)
         .append("g")

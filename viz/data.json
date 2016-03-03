@@ -13,126 +13,201 @@
             {
               "Case": "Leaf",
               "name": "IDENT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KJONN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ALDER_AR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ALDER_DAGER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOSTEDSKOMMUNE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODSTIDSPUNKT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODSSTED",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODSKOMMUNE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOSTEDSLAND",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OPPHOLDSKATEGORI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MELDINGSTYPER_INN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPES_OMST_A",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPES_OMST_B",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SKADESTED",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SKADEAKTIVITET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TYPE_DIAGNOSE_KODEVERK",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EU_SHORTLIST_1998",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIAGNOSE_UNDERLIGGENDE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIAGNOSE_SKADE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ARSAK_DIAGNOSER_IA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ARSAK_DIAGNOSER_IB",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ARSAK_DIAGNOSER_IC",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ARSAK_DIAGNOSER_II",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ALLE_DIAGNOSER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OBDUKSJONSTYPE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -150,1196 +225,1913 @@
             {
               "Case": "Leaf",
               "name": "VERSJON_DATABASE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VERSJON_RECORD",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KILDE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ID_BARN",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ID_MOR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ID_FAR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODESTED_KAT",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODESTED_KAT_5",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HOVEDINSTNR",
+              "sensitivity": {
+                "Case": "Restricted"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INSTNR",
+              "sensitivity": {
+                "Case": "Restricted"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HELSEFORETAK",
+              "sensitivity": {
+                "Case": "Restricted"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HELSEREGION",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOHELSEREGION_DAGENS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MFDATO",
+              "sensitivity": {
+                "Case": "Restricted"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MOR_FAAR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MFMND",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GEN_MFNR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_ALDER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_ALDER_DESIMALT",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_ALDER_KAT_K6",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOKOMM",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOFYLKE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOKOMM_DAGENS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOFYLKE_DAGENS",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SIVST",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SIVST_2",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SLEKTF",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FFDATO",
+              "sensitivity": {
+                "Case": "Restricted"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FAR_FAAR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FFMND",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GEN_FFNR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FARS_ALDER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FARS_ALDER_KAT_K8",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PARITET",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PARITET_5",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PARITET_MOR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PARITET_MFR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODFODTE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODFODTE_5",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEVENDEFODTE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEVENDEFODTE_5",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPABORT_12",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPABORT_12_5",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPABORT_23",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPABORT_23_5",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KSNITT_TIDLIGERE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SMENSD",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SMENS_MND",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SMENSD_KODE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UL_TERMIN",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UL_TERMIN_AAR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UL_TERMIN_MND",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVF_INNSETT_DATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_KAT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_DG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_UL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_UL_DG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_SM",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_SM_DG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ZSCORE_BW_GA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PRENAT_PAT_KODER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIAG_FOER_SVGSK_INGEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_HELSE_FOER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ASTMA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HYPERTENSJON_KRONISK",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NYRESYKDOM_KRONISK",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "URINVEIS_RES",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "REUM_ARTRITT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HJERTE_MOR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EPILEPSI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIABETES_MELLITUS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "THYREOIDEA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SYKDOM_MOR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOSTNEI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOLATF",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MULTIVITF",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIAG_UNDER_SVGSK_INGEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_HELSE_UNDER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLODN_SVGSK",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLODN_F13",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLODN_13_28",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLODN_E28",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HYPERTENSIV_TILSTAND",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HYPERTENSJON_ALENE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EKLAMPSI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PREEKL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PREEKLTIDL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PREEKL_EKLAMPSI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HELLP",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HB_U9",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RUBELLA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VENERISK",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MULTIVITU",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOLATU",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEGEMIDLER_UNDER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEGEMIDLER_FODSEL",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_SAMTYKKE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_OPPL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_FOER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_FOER_ANT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_BEG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_BEG_ANT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_AVSL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROYK_AVSL_ANT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_HOYDE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_VEKT_FOER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS_VEKT_SLUTT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KMI_FOER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KMI_SLUTT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FSTART",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROBSON_10",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INNGREP_TILTAK_INGEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEIE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INTERVENSJON",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INDUKSJON_PROSTAGLANDIN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INDUKSJON_OXYTOCIN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INDUKSJON_AMNIOTOMI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INDUKSJON_ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INNGREP",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TANG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VAKUUM",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EPISIOTOMI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FRAMHJELP",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTTREKKING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KSNITT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KSNITT_PLANLAGT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMPL_INGEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMPLIKASJONER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VANNAVGANG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ABRUPTIOP",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLACENTA_PREVIA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RUPTUR34",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLODNING_O500",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DYSTOCI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANESTESI_INGEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LYSTGASS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OPIAT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EPIDURAL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPINAL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PUDENDAL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INFILTRASJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PARACERV",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NARKOSE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANESTESI_ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLACENTA_NORMAL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTSKRAPING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLACENTAVEKT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MANUELL_PLACENTA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVLESNORLENGDE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOSTERV_NORMAL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOSTERV_POLYHYDRAMNION",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOSTERV_OLIGOHYDRAMNION",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOSTERV_MISF_STINK_INFI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVLESNOR_NORMAL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVLESNOR_KOMPL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVLESNOR_OMSL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVLESNOR_KNUTE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMPLIKASJONER_ETTER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TROMBOSE_BEH",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FDATO",
+              "sensitivity": {
+                "Case": "Restricted"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FMND",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FAAR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FLERFODSEL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLURAL",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLUREK",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLUREK_1",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KJONN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VEKT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LENGDE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HODE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "APGAR1",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "APGAR5",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OVERFLYTTET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTVANDRET_DATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODT_MFR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TILSTAND",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DDATO",
+              "sensitivity": {
+                "Case": "Restricted"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DAAR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DMND",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DODKAT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DODFODT_MFR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_MFR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_TID_MFR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_FODT_MFR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DODFOD_1000_WHO",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DODFOD_500_WHO",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_TI_1000_WHO",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_TI_500_WHO",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_1000_WHO",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_DOD_500_WHO",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_FODT_1000_WHO",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERINAT_FODT_500_WHO",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BARNETS_HELSE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ABSTINENS",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NEO_DIAG_INGEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RESPIRATORISK_DISTR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INTRAKRANIELL_BLODN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KONJUNKTIVITT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLEXUSSKADE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RH_ANTISTOFF",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SYSTEMISKANTIBIOTIKA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RESPIRATOR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FRACT_CLAVICULAE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "CPAP",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HOFTELEDDYSPL_PUTE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNEN_FRACTUR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ICTERUS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FACIALISPARESE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C00_MALF_ALL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C01_ANENCEPH",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C02_SPINAB",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C03_ENCEPH",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C06_HYDROCEPH",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C11_MICROTIA",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C13_TRANSPOS_GREAT_VESSELS",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C15_HYPOPLASTIC_LEFT_HEART",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C18_CLEFT_PALATE_WITHOUT_CL",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C19_CLEFT_LIP_PLUS_MINUS_CP",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C20_OESOPHAGEAL_ATRES_STENOS",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C22_ANORECTAL_ATRES_STENOS",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C24_HYPOSPADIA",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C27_RENAL_AGENESIS",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C31_LIMB_REDUCTION_DEFECTS_ALL",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C38_DIAFRAGMATIC_HERNIA",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C39_OMPHALOCELE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C40_GASTROSCHISIS",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "C45_DOWN",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NEVRALRORSDEFEKTER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVF",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVFMETODE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVFINSTITUSJON",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODELAND_NAVN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODELAND_KODE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_IVF",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SVLEN_IVF_DG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVF_DATO_EGGUTTAK",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IVF_DAG_EGGFRYS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -1357,56 +2149,89 @@
             {
               "Case": "Leaf",
               "name": "VERSJON",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MELDINGSTYPE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FRADATOPERIODE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTTAKDATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEVERANDOR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NAVNEPJ",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VERSJONEPJ",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VERSJONUT",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LOPENR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TILDATOPERIODE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LOKALIDENT",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1418,26 +2243,41 @@
             {
               "Case": "Leaf",
               "name": "KONTPERSON",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MELDTELEFON",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MELDEPOST1",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MELDEPOST2",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TYPEKONTAKTPERSON",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1449,6 +2289,9 @@
             {
               "Case": "Leaf",
               "name": "INSTITUSJONID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1460,36 +2303,57 @@
             {
               "Case": "Leaf",
               "name": "ENHETID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ORGNR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NACE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OFFAVDKODE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RESHID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ISFREFUSJON",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ENHETLOKAL",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1501,11 +2365,17 @@
             {
               "Case": "Leaf",
               "name": "OBJEKTTYPE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SLETTGUID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1517,11 +2387,17 @@
             {
               "Case": "Leaf",
               "name": "PASIENTGUID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PASIENTNR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1533,26 +2409,41 @@
             {
               "Case": "Leaf",
               "name": "PASIENTGUID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PASIENTNR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KJONN",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODSELSAR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FODSELSVEKT",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1564,61 +2455,97 @@
             {
               "Case": "Leaf",
               "name": "HENVISNINGSPERIODEGUID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVISNINGSPERIODEID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVFRAINSTITUSJONID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVFRATJENESTE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVFRAHPR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANSIENDATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TRYGDENASJON",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NYTILSTAND",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SLUTTDATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVTILINSTITUSJONID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVTILTJENESTE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVTILHPR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1630,131 +2557,209 @@
             {
               "Case": "Leaf",
               "name": "EPISODEGUID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EPISODEID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVISNINGSPERIODEID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SERIEID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INNDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FRASTED",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FRAINSTITUSJONID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMMTJENESTE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DEBITOR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EPISODEFAG",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DELYTELSE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FRITTBEHANDLINGSVALG",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMNRHJEM",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BYDEL",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INNTILSTAND",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SAMTYKKEKOMPETANSE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INNMATEHAST",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ALDERIDAGER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OMSORGSNIVA",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTTILSTAND",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SLUTTKODE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EPIKRISEDATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TILSTED",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TILINSTITUSJONID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EPIKRISESAMTYKKE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1766,16 +2771,25 @@
             {
               "Case": "Leaf",
               "name": "OPPHOLDSTYPE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "AVDOPPAKTIVITET",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERMISJONSDOGN",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1787,26 +2801,41 @@
             {
               "Case": "Leaf",
               "name": "KONTAKTTYPE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INITIATIVTAKER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STEDAKTIVITET",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "POLKONAKTIVITET",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "POLINDIR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1818,16 +2847,25 @@
             {
               "Case": "Leaf",
               "name": "INDIVIDUELLPLAN",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROLLEIP",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INDIVIDUELLPLANDATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1839,121 +2877,193 @@
             {
               "Case": "Leaf",
               "name": "HENVID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FORSTEHENVID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MOTTAKSDATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVTYPE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVVURD",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HENVFORMAL",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FRITTBEHANDLINGSVALG",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SECONDOPINION",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMNRHJEM",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DEBITOR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BYDEL",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMMUNALTJENESTE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TUTOR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OMSNIVAHENV",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FAGOMRADE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VURDDATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PAKKEFORLOP",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TILSTANDSGRUPPE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TILDELTDATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RETTTILHELSEHJELP",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FRISTSTARTBEHANDLING",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DATOFORMIDLET",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VENTETIDSLUTTDATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VENTETIDSLUTTKODE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1965,11 +3075,17 @@
             {
               "Case": "Leaf",
               "name": "TIDSPUNKT",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TYPETIDSPUNKT",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -1981,26 +3097,41 @@
             {
               "Case": "Leaf",
               "name": "INSTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TJENESTEENHETID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STARTDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SLUTTDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TJENESTEFAG",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2012,6 +3143,9 @@
             {
               "Case": "Leaf",
               "name": "DELTAKERTYPE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2023,11 +3157,17 @@
             {
               "Case": "Leaf",
               "name": "TYPEMALING",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MALINGDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2039,16 +3179,25 @@
             {
               "Case": "Leaf",
               "name": "STARTDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STOPPDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERMISJONTYPE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2060,21 +3209,33 @@
             {
               "Case": "Leaf",
               "name": "TJENESTEENHETID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FAGENHETID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INNDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2086,11 +3247,17 @@
             {
               "Case": "Leaf",
               "name": "TJENESTER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INSTITUSJONID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2102,16 +3269,25 @@
             {
               "Case": "Leaf",
               "name": "TYPEFORSKRIFT",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TAKSTNUMMER",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANTALL",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2123,11 +3299,17 @@
             {
               "Case": "Leaf",
               "name": "ENHETID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TYPEENHET",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2139,16 +3321,25 @@
             {
               "Case": "Leaf",
               "name": "UTSETTKODE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTSETTDATO",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DATOEPISODE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2160,16 +3351,25 @@
             {
               "Case": "Leaf",
               "name": "TYPETILTAK",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STARTDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SLUTTDATOTID",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2181,16 +3381,25 @@
             {
               "Case": "Leaf",
               "name": "MALERESULTATNR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VERDI",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ENHET",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2202,11 +3411,17 @@
             {
               "Case": "Leaf",
               "name": "TILSTNR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "AKSE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2218,16 +3433,25 @@
             {
               "Case": "Leaf",
               "name": "POLUTFORENDE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIALIST",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ROLLE",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2239,11 +3463,17 @@
             {
               "Case": "Leaf",
               "name": "PROSNR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TILSTNR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2255,21 +3485,33 @@
             {
               "Case": "Leaf",
               "name": "KODENR",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KODEVERK",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KODEVERSJON",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KODEVERDI",
+              "sensitivity": {
+                "Case": "Guarded"
+              },
               "size": 450
             }
           ]
@@ -2287,156 +3529,249 @@
             {
               "Case": "Leaf",
               "name": "PASIENTTYPE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ASA-SCORE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RISIKOFAKTORER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PÅGÅENDE PANKREATITT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PÅGÅENDE KOLANGITT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLØDNINGSTENDENS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ALVORLIG HJERTESYKDOM",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ALVORLIG LUNGESYKDOM",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIABETES",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INDIKASJON (EV MISTANKE)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GALLEGANGSSTEIN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MALIGN STENOSE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BENIGN STENOSE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UAVKLART STENOSE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PAPILLESTENOSE (SPHINCTER ODDI DYSFUNCTION, SOD)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PAPILLETUMOR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEKKASJE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PRØVETAKING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TIDLIGERE ERCP",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NEI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TIDL MISLYKKET KANYLERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TIDL MISLYKKET PRECUT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TIDLIGERE ERCP KOMPLIKASJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TIDLIGERE EST",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "METALL STENT IN SITU",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PLASTSTENT IN SITU",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TIDLIGERE POST ERCP PANKREATITT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -2448,381 +3783,609 @@
             {
               "Case": "Leaf",
               "name": "PROSEDYREDATA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DATO:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "START (KL):",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SLUTT (KL):",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "CO2:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SEDASJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PROFYLAKSE I RELASJON TIL PROSEDYREN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANTIBIOTIKA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NSAID SUPP",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PROFYLAKTISK PANKREAS STENT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIELLE PROBLEMER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UROLIG PASIENT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VENTRIKKELRETENSJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DUODENALSTENOSE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SLIMHINNEØDEM",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIVERTIKKEL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TUMORINNVEKST",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KIRURGISK ANASTOMOSE:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VANSKELIGHETSGRAD (ASGE 1-4)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PROSEDYRE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GALLE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SFINKTEROTOMI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STEINEKSTRAKSJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STENTPLASSERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "-METALLSTENT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STENTFJERNING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PRØVETAKING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DILATASJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ØNSKET KANYLERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GJENNOMFØRT KANYLERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PRECUT FOR TILGANG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PANCREAS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SFINKTEROTOMI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STEINEKSTRAKSJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STENTPLASSERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "-METALLSTENT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STENTFJERNING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PRØVETAKING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DILATASJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ØNSKET KANYLERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GJENNOMFØRT KANYLERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PRECUT FOR TILGANG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BIPAPILLE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SFINKTEROTOMI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STEINEKSTRAKSJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STENTPLASSERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STENTFJERNING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PRØVETAKING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DILATASJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ØNSKET KANYLERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GJENNOMFØRT KANYLERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PRECUT FOR TILGANG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FUNN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GALLE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NORMALE FUNN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STEIN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STRIKTUR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEKKASJE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PANCREAS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "NORMALE FUNN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STEIN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STRIKTUR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LEKKASJE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ICD-10 HOVEDDIAGNOSE:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MÅLSETTING OPPNÅDD;",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TYPE INNGREP;",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -2834,146 +4397,233 @@
             {
               "Case": "Leaf",
               "name": "PEROPERATIVE KOMPLIKASJONER (COTTON GRAD 1-3)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PEROPERATIVE KOMPLIKASJONER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INGEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLØDNING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERFORASJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "EKSTRAVASERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KARDIOVASKULÆRT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RESPIRATORISK",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANTIDOT GITT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER #1",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "POSTOPERATIVE KOMPLIKASJONER OPPDAGET DATO:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "POSTOPERATIVE KOMPLIKASJONER (COTTON GRAD 1-3)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "POSTOPERATIVE KOMPLIKASJONER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INGEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PANKREATITT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOLANGITT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BLØDNING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KARDIOVASKULÆRT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RESPIRATORISK",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERFORASJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "STENTPERFORASJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KONSEKVENSER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RESULTAT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MORS  (DATO):",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "CLAVIEN-DINDO (1-5)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -2985,31 +4635,49 @@
             {
               "Case": "Leaf",
               "name": "1. VAR UNDERSØKELSEN SMERTEFULL?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "2. HAR DU HATT LUFTSMERTER ELLER ANNET UBEHAG ETTER UNDERSØKELSEN?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "3. ER DU FORNØYD MED BEHANDLINGEN SOM BLE GITT?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "4. ER DU FORNØYD MED INFORMASJONEN DU FIKK OM UNDERSØKELSEN?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "5. H\n                E DU UFRIVILLIGE ”LEKKASJER” PÅ VEI TIL UNDERSØKELSEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "6. HAR DU HATT NOEN UFRIVILLIGE ”LEKKASJER” PÅ HJEMVEI ETTER UNDERSØKELSE?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3021,46 +4689,73 @@
             {
               "Case": "Leaf",
               "name": "7. VAR OPPSKRIFTEN DU FIKK FOR TARMTØMMING VANSKELIG Å FORSTÅ?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "8. SMAKTE TØMNINGSVÆSKEN VONDT?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "9. MEDFØRTE TØMNINGEN AV TARMEN MAGESMERTER?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "10. MEDFØRTE TØMNINGEN AV TARMEN KVALME?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "11. MEDFØRTE TØMNINGEN AV TARMEN OPPBLÅSTHET?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "12. MEDFØRTE TØMNINGEN AV TARMEN HODEPINE?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "13. MEDFØRTE TØMNINGEN AV TARMEN ANDRE PLAGER?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HVIS JA, VENNLIGST SPESIFISER PLAGENE:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANDRE KOMMENTARER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3072,31 +4767,49 @@
             {
               "Case": "Leaf",
               "name": "MIDAZOLAM",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PETHIDIN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FENTANYL",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RAPIFEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET (FRITEKST):",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3108,31 +4821,49 @@
             {
               "Case": "Leaf",
               "name": "PEG LITER(TOTALT)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TØMNING GITT SOM SPLIT DOSE:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PICOPREP &#X2F; CITRAFLEET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "3-DAGERS TØMNING (FLYTENDE, TOILAX, KLYX):",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "(SPESIFISER):",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3144,16 +4875,25 @@
             {
               "Case": "Leaf",
               "name": "HØYRE KOLON (CAECUM OG ASCENDENS)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "TRANSVERSUM (INKLUDERER HØYRE OG VENSTRE FLEKSUR)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VENSTRE KOLON (DESCENDENS, SIGMOIDEUM, REKTUM)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3165,21 +4905,33 @@
             {
               "Case": "Leaf",
               "name": "NEI:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOLONRESEKSJON:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "GYNEKOLOGISK OPERASJON:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNEN ABDOMINALOPERASJON:",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3191,36 +4943,57 @@
             {
               "Case": "Leaf",
               "name": "SYMPTOMER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "POLYPPKTR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "CRC KTR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SLEKTSBELASTN. CRC",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SCREENING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IBD KTR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3232,26 +5005,41 @@
             {
               "Case": "Leaf",
               "name": "IBS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IBD",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "CRC",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OBSTIPASJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3263,31 +5051,49 @@
             {
               "Case": "Leaf",
               "name": "NORMALE FUNN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "IBD",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "CRC",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "POLYPP(ER)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIVERTIKLER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3299,6 +5105,9 @@
             {
               "Case": "Leaf",
               "name": "ANTALL POLYPPER PÅVIST (KUN 5MM ELLER STØRRE), MER ENN 10 STK MARKERES 99",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3310,31 +5119,49 @@
             {
               "Case": "Leaf",
               "name": "POLYPP 1",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIAMETER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FJERNET?",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "POLYPP 2",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIAMETER #1",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FJERNET? #1",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3352,21 +5179,33 @@
             {
               "Case": "Leaf",
               "name": "KOLS STATUS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ER DET INNHENTET SAMTYKKE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INNLAGT (PÅ SYKEHUSET)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTSKREVET (FRA AVDELING)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3378,41 +5217,65 @@
             {
               "Case": "Leaf",
               "name": "RØYKEVANER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANTALL ÅR RØYKT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANTALL SIGARETTER PER DAG",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANTALL PAKKÅR",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HØYDE (CM)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "VEKT (KG)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BMI",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ALDER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3424,16 +5287,25 @@
             {
               "Case": "Leaf",
               "name": "CRP (MG&#X2F;L)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LPK (10I9&#X2F;L)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PH",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3445,61 +5317,97 @@
             {
               "Case": "Leaf",
               "name": "KORONAR HJERTESYKDOM",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HYPERTENSJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "HJERTESVIKT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OSTEOPOROSE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DIABETES MELLITUS",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OBSTRUKTIV SØVNAPNÉSYNDROM",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ADIPOSITAS HYPOVENTILASJONSSYNDROM&#X2F;PICKWICK",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "LUNGEKREFT",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "DEPRESJON",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ASTMA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANNET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "SPESIFISER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3511,11 +5419,17 @@
             {
               "Case": "Leaf",
               "name": "RESPIRASJONSSTØTTE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANTIBIOTIKABEHANDLING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3527,16 +5441,25 @@
             {
               "Case": "Leaf",
               "name": "PASIENTEN DØD UNDER OPPHOLDET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "UTSKREVET&#X2F;OVERFLYTTET",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "CAT (COPD ASSESSMENT TEST)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3548,36 +5471,57 @@
             {
               "Case": "Leaf",
               "name": "MED O2",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "L O2",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PH",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PACO2 (KPA)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PAO2 (KPA)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BOBLER BASERT PÅ PAO2",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3589,21 +5533,33 @@
             {
               "Case": "Leaf",
               "name": "FEV1 (L)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "(% AV FORVENTET)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FVC (L)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "(% AV FORVENTET) #1",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3615,61 +5571,97 @@
             {
               "Case": "Leaf",
               "name": "ANTIBIOTIKA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "PERORALE CORTICOSTEROIDER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "INHALASJONSTEROIDER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "MYCOLYTICA",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "XANTINER&#X2F;TEOFYLLIN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "OKSYGEN",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BETA2-STIMULATOR (HURTIGVIRKENDE)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "BETA2-STIMULATOR (LANGTIDSVIRKENDE&#X2F;LABA)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOMBINASJON (INHALASJONSSTEROIDER&#X2F;LABA)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANTICHOLINERGICA (KORTTIDSVIRKENDE)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "ANTICHOLINERGICA (LANGTIDSVIRKENDE&#X2F;LAMA)",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "FOSFODIESTERASEHEMMER",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]
@@ -3681,16 +5673,25 @@
             {
               "Case": "Leaf",
               "name": "INFLUENSAVAKSINE",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "RØYKEAVVENNING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             },
             {
               "Case": "Leaf",
               "name": "KOLS REHABILITERING",
+              "sensitivity": {
+                "Case": "Anonymous"
+              },
               "size": 450
             }
           ]

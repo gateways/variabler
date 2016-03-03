@@ -9,6 +9,7 @@ title: variabler - IFF Net
 	<p>An evolving view of metadata.</p>
 </div>
 
+
 <style>
     .node circle {
         fill: steelblue;
@@ -37,8 +38,13 @@ title: variabler - IFF Net
         font-weight: bold;
         font-size: 14px;
     }
+    
+    .viz {
+    	background-color: white;
+    }
 </style>
 
+<div class="viz">
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
@@ -102,4 +108,4 @@ title: variabler - IFF Net
     d3.select(self.frameElement).style("height", diameter - 150 + "px");
 
 </script>
-
+</div>

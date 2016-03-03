@@ -42,6 +42,8 @@ title: variabler - IFF Net
     #viz {
     	background-color: white;
     }
+    
+    .compo-wrapper { background: white; }
 </style>
 
 <div id="viz">

@@ -15,5 +15,3 @@ title: variabler - IFF Net
 	<h1>HRR Variable Map</h1>
 	<p>An evolving view of HRR metadata.  Metadata variables are partially <a href="/map">visualized</a>.</p>
 </div>
-
-</div>
